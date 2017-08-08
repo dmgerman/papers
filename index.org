@@ -50,6 +50,19 @@
    ICPC 2015: 218-228@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publishers copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
+10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
+    Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. OSS 2015: 146-156@@html:<br>@@
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher copy]] | [[file:2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
+
+11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán.  OSS 2015: 157-167 @@html:<br>@@
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher copy]] | [[file:./2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
+    
+13. *Software patents: a replication study* @@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4@@html:<br>@@
+    [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publishers Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
+
+
 
 * By year
 
