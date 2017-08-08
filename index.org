@@ -104,6 +104,13 @@
    ESEM 2014: 51:1-51:10@@html:<br>@@
    [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
 
+*** 2013
+
+1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
+Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
+Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
+[[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
+
 
 * By year
 
@@ -256,7 +263,10 @@
 
 ** 2013
 
-[[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[
+1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
+Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
+Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
+[[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
 * To be done
 
@@ -264,8 +274,7 @@
 #+BEGIN_SRC example
 2014
 2013
-	[j14]		Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle:
-Software Bertillonage - Determining the provenance of software development artifacts. Empirical Software Engineering 18(6): 1195-1237 (2013)
+	[j14]		
 	[c63]		Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
 The Evolution of the R Software Ecosystem. CSMR 2013: 243-252
 	[c62]		Peter C. Rigby, Earl T. Barr, Christian Bird, Premkumar T. Devanbu, Daniel M. Germán:
