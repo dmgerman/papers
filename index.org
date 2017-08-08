@@ -89,6 +89,12 @@
     Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
+5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
+   Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.
+   ESEM 2014: 51:1-51:10@@html:<br>@@
+   [[http://dl.acm.org/citation.cfm?id=2652542][Publishers copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
+
+
 * By year
 
 ** 2017
@@ -213,8 +219,10 @@
 4. Peter C. Rigby, Daniel M. Germán, Laura Cowen, Margaret-Anne D. Storey:
    Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory. ACM Trans. Softw. Eng. Methodol. 23(4): 35:1-35:33 (2014)@@html:<br>@@
 
-5. Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán:
-   Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel. ESEM 2014: 51:1-51:10@@html:<br>@@
+5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
+   Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.
+   ESEM 2014: 51:1-51:10@@html:<br>@@
+   [[http://dl.acm.org/citation.cfm?id=2652542][Publishers copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
 
 6. Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán:
    Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. ICSE Companion 2014: 448-451@@html:<br>@@
