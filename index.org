@@ -254,6 +254,10 @@
 10. Raula Gaikovina Kula, Coen De Roover, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
    Visualizing the Evolution of Systems and Their Library Dependencies. VISSOFT 2014: 127-136@@html:<br>@@
 
+** 2013
+
+[[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[
+
 * To be done
 
 
