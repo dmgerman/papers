@@ -153,6 +153,7 @@
 
 13. *Software patents: a replication study* @@html:<br>@@
     Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4
+    [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publishers Copy]] (open access) | 
 
 
 * To be done
