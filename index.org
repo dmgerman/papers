@@ -26,12 +26,12 @@
 
 1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
-   Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publisher's copy]] | [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
 
 1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
-   ICSE 2017: 118-129@@html:<br>@@
+   International Conference in Software Engineering (ICSE) 2017: 118-129@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
@@ -41,7 +41,7 @@
 
 3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
    Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
-   Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
 
 *** 2015
@@ -86,7 +86,7 @@
 
 1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
     Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
-    Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
+    Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
 *** 2015
@@ -108,7 +108,7 @@
 
 1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
     Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
-    Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
+    Journal of Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
 
@@ -118,17 +118,17 @@
 
 1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
-   Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publisher's copy]] | [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
    
 2. *The Debsources Dataset: two decades of free and open source software* @@html:<br>@@
    Matthieu Caneill, Daniel M. Germán, Stefano Zacchiroli.@@html:<br>@@
-   Empirical Software Engineering 22(3): 1405-1437 (2017)@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1405-1437 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9461-5][Publisher's copy]] | [[file:2017/journal/2017_emse-msr-special-issue_debsources/2017_emse_debsources.pdf][Local copy]]
 
 3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
    Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
-   Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
 
 5. Ali Ouni, Raula Gaikovina Kula, Marouane Kessentini, Takashi Ishio, Daniel M. Germán, Katsuro Inoue:
@@ -140,7 +140,7 @@
 
 1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
-   ICSE 2017: 118-129@@html:<br>@@
+   International Conference in Software Engineering (ICSE) 2017: 118-129@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
@@ -155,14 +155,14 @@
 
 1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
     Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
-    Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
+    Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
 2. Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán:
-   An empirical study of integration activities in distributions of open source software. Empirical Software Engineering 21(3): 960-1001 (2016)
+   An empirical study of integration activities in distributions of open source software. Journal of Empirical Software Engineering 21(3): 960-1001 (2016)
 	
 3. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian:
-   An in-depth study of the promises and perils of mining GitHub. Empirical Software Engineering 21(5): 2035-2071 (2016)
+   An in-depth study of the promises and perils of mining GitHub. Journal of Empirical Software Engineering 21(5): 2035-2071 (2016)
 
 4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
    Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue: MSR 2016: 339-350 @@html:<br>@@
@@ -180,13 +180,13 @@
 ** 2015
 
 1. Nicolas Bettenburg, Ahmed E. Hassan, Bram Adams, Daniel M. Germán:
-   Management of community contributions. Empirical Software Engineering 20(1): 252-289 (2015)
+   Management of community contributions. Journal of Empirical Software Engineering 20(1): 252-289 (2015)
 
 3. Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:
    People Analytics in Software Development. GTTSE 2015: 124-153
 
 4. Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán:
-   Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub. ICSE (1) 2015: 574-585
+   Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub. International Conference in Software Engineering (ICSE) (1) 2015: 574-585
 
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
@@ -245,7 +245,7 @@
    [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
 
 6. Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán:
-   Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. ICSE Companion 2014: 448-451@@html:<br>@@
+   Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. International Conference in Software Engineering (ICSE) Companion 2014: 448-451@@html:<br>@@
 
 7. *Tracing software build processes to uncover license compliance inconsistencies* @@html:<br>@@
    Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel.@@html:<br>@@
@@ -265,7 +265,7 @@
 
 1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
    Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
-   Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
+   Journal of Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
 * To be done
@@ -293,7 +293,7 @@ Cohesive and Isolated Development with Branches. FASE 2012: 316-331
 	[c58]		Gregorio Robles, Israel Herraiz, Daniel M. Germán, Daniel Izquierdo-Cortazar:
 Modification and developer metrics at the function level: metrics for the study of the evolution of a software project. WETSoM 2012: 49-55
 	[c57]		Massimiliano Di Penta, Giuliano Antoniol, Daniel M. Germán, Yann-Gaël Guéhéneuc, Bram Adams:
-Five days of empirical software engineering: The PASED experience. ICSE 2012: 1255-1258
+Five days of empirical software engineering: The PASED experience. International Conference in Software Engineering (ICSE) 2012: 1255-1258
 2011
 	[c56]		Christopher Gat, Hanyu Zhang, Daniel M. Germán, Melanie Tory:
 gamutHeatMap: Visualizing the Colour Shift of Rendering Intent Transformations. Computational Aesthetics 2011: 81-88
@@ -311,7 +311,7 @@ Apples vs. oranges?: an exploration of the challenges of comparing the source co
 	[c50]		Thomas K. Sharpless, Bruno Postle, Daniel M. Germán:
 Pannini: A New Projection for RenderingWide Angle Perspective Images . Computational Aesthetics 2010: 9-16
 	[c49]		Massimiliano Di Penta, Daniel M. Germán, Yann-Gaël Guéhéneuc, Giuliano Antoniol:
-An exploratory study of the evolution of software licensing. ICSE (1) 2010: 145-154
+An exploratory study of the evolution of software licensing. International Conference in Software Engineering (ICSE) (1) 2010: 145-154
 	[c48]		Daniel M. Germán, Massimiliano Di Penta, Julius Davies:
 Understanding and Auditing the Licensing of Open Source Software Distributions. ICPC 2010: 84-93
 	[c47]		Daniel M. Germán, Yuki Manabe, Katsuro Inoue:
@@ -329,11 +329,11 @@ Lawful software engineering. FoSER 2010: 129-132
 	[j11]		Daniel M. Germán, Jaume Rigau:
 Improving scans of black and white photographs by recovering the print maker's artistic intent. Computers & Graphics 33(4): 509-520 (2009)
 	[j10]		Jesús M. González-Barahona, Gregorio Robles, Martin Michlmayr, Juan José Amor, Daniel M. Germán:
-Macro-level software evolution: a case study of a large software compilation. Empirical Software Engineering 14(3): 262-285 (2009)
+Macro-level software evolution: a case study of a large software compilation. Journal of Empirical Software Engineering 14(3): 262-285 (2009)
 	[j9]		Daniel M. Germán, Ahmed E. Hassan, Gregorio Robles:
 Change impact graphs: Determining the impact of prior codechanges. Information & Software Technology 51(10): 1394-1408 (2009)
 	[c42]		Daniel M. Germán, Ahmed E. Hassan:
-License integration patterns: Addressing license mismatches in component-based development. ICSE 2009: 188-198
+License integration patterns: Addressing license mismatches in component-based development. International Conference in Software Engineering (ICSE) 2009: 188-198
 	[c41]		Abram Hindle, Daniel M. Germán, Michael W. Godfrey, Richard C. Holt:
 Automatic classication of large changes into maintenance categories. ICPC 2009: 30-39
 	[c40]		Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu:
@@ -352,7 +352,7 @@ A survey and evaluation of tool features for understanding reverse-engineered se
 	[c36]		Daniel M. Germán:
 Improving Scans of Black and White photographs by Recovering the Print Maker's Artistic Intent. Computational Aesthetics 2008: 99-106
 	[c35]		Peter C. Rigby, Daniel M. Germán, Margaret-Anne D. Storey:
-Open source software peer review practices: a case study of the apache server. ICSE 2008: 541-550
+Open source software peer review practices: a case study of the apache server. International Conference in Software Engineering (ICSE) 2008: 541-550
 	[c34]		Gregorio Robles, Daniel M. Germán, Andrea Capiluppi:
 1st workshop on maintenance and evolution of FLOSS (MEFLOSS). ICSM 2008: 410-411
 	[c33]		Abram Hindle, Daniel M. Germán, Richard C. Holt:
@@ -378,7 +378,7 @@ A Model to Understand the Building and Running Inter-Dependencies of Software. W
 Intellectual Property for Software (Re-)Engineers and Researchers: A Tutorial. WCRE 2007: 297
 2006
 	[j6]		Daniel M. Germán:
-An empirical study of fine-grained software modifications. Empirical Software Engineering 11(3): 369-393 (2006)
+An empirical study of fine-grained software modifications. Journal of Empirical Software Engineering 11(3): 369-393 (2006)
 	[j5]		Daniel M. Germán, Abram Hindle:
 Visualizing the Evolution of Software Using Softchange. International Journal of Software Engineering and Knowledge Engineering 16(1): 5-22 (2006)
 	[c23]		Kirby Shabaga, Daniel M. Germán:
