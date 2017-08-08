@@ -23,12 +23,14 @@
 
 1. *Analysis of license inconsistency in large collections of open source projects*
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
-   Empirical Software Engineering 22(3): 1194-1222 (2017)
+   Empirical Software Engineering 22(3): 1194-1222 (2017)<br>
+
    [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
    
 2. *The Debsources Dataset: two decades of free and open source software*
    Matthieu Caneill, Daniel M. Germán, Stefano Zacchiroli.
    Empirical Software Engineering 22(3): 1405-1437 (2017)
+
    [[https://link.springer.com/article/10.1007/s10664-016-9461-5][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_debsources/2017_emse_debsources.pdf][Local copy]]
 
 3. Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk:
