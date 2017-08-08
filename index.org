@@ -1,0 +1,294 @@
+#+STARTUP: showall
+#+STARTUP: lognotestate
+#+TAGS:
+#+SEQ_TODO: TODO STARTED DONE DEFERRED CANCELLED | WAITING DELEGATED APPT
+#+DRAWERS: HIDDEN STATE
+#+TITLE: My publications
+#+CATEGORY: 
+#+PROPERTY: header-args:sql             :engine postgresql  :exports both :cmdline csc370
+#+PROPERTY: header-args:sqlite          :db /path/to/db  :colnames yes
+#+PROPERTY: header-args:C++             :results output :flags -std=c++14 -Wall --pedantic -Werror
+#+PROPERTY: header-args:R               :results output  :colnames yes
+#+OPTIONS: ^:nil
+
+
+
+* Intellectual Property 
+
+
+
+* By year
+
+** 2017
+
+1. *Analysis of license inconsistency in large collections of open source projects*
+   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
+   Empirical Software Engineering 22(3): 1194-1222 (2017)
+   [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
+   
+2. *The Debsources Dataset: two decades of free and open source software*
+   Matthieu Caneill, Daniel M. Germán, Stefano Zacchiroli.
+   Empirical Software Engineering 22(3): 1405-1437 (2017)
+   [[https://link.springer.com/article/10.1007/s10664-016-9461-5][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_debsources/2017_emse_debsources.pdf][Local copy]]
+
+3. Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk:
+   License usage and changes: a large-scale study on gitHub. Empirical Software Engineering 22(3): 1537-1577 (2017)
+
+5. Ali Ouni, Raula Gaikovina Kula, Marouane Kessentini, Takashi Ishio, Daniel M. Germán, Katsuro Inoue:
+   Search-based software library recommendation using multi-objective optimization. Information & Software Technology 83: 55-75 (2017)
+
+6. Margaret-Anne D. Storey, Alexey Zagalsky, Fernando Marques Figueira Filho, Leif Singer, Daniel M. Germán:
+   How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development. IEEE Trans. Software Eng. 43(2): 185-204 (2017)
+
+7. Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
+   Machine learning-based detection of open source license exceptions. ICSE 2017: 118-129
+
+8. Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue:
+   How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects. OSS 2017: 69-79
+
+9. Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Ali Ouni, Katsuro Inoue:
+   An exploratory study on library aging by monitoring client usage in a software ecosystem. SANER 2017: 407-411
+
+
+* To be done
+
+
+
+#+BEGIN_SRC example
+2016
+	[j23]		Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+Continuously mining distributed version control systems: an empirical study of how Linux uses Git. Empirical Software Engineering 21(1): 260-299 (2016)
+	[j22]		Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán:
+An empirical study of integration activities in distributions of open source software. Empirical Software Engineering 21(3): 960-1001 (2016)
+	[j21]		Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian:
+An in-depth study of the promises and perils of mining GitHub. Empirical Software Engineering 21(5): 2035-2071 (2016)
+	[c84]		Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
+Software ingredients: detection of third-party component reuse in Java software release. MSR 2016: 339-350
+	[c83]		Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño:
+How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists. MSR 2016: 441-451
+	[c82]		Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán:
+Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. OSS 2016: 147-162
+	[c81]		Evan Wilde, Daniel M. Germán:
+Merge-Tree: Visualizing the Integration of Commits into Linux. VISSOFT 2016: 1-10
+2015
+	[j20]		Nicolas Bettenburg, Ahmed E. Hassan, Bram Adams, Daniel M. Germán:
+Management of community contributions. Empirical Software Engineering 20(1): 252-289 (2015)
+	[j19]		Sanghoon Lee, Daniel M. Germán, Seung-won Hwang, Sunghun Kim:
+Crowdsourcing Identification of License Violations. JCSE 9(4) (2015)
+	[c80]		Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:
+People Analytics in Software Development. GTTSE 2015: 124-153
+	[c79]		Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán:
+Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub. ICSE (1) 2015: 574-585
+	[c78]		Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
+When and why developers adopt and change software licenses. ICSME 2015: 31-40
+	[c77]		Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
+License usage and changes: a large-scale study of Java projects on GitHub. ICPC 2015: 218-228
+	[c76]		Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán:
+What Is the Gist? Understanding the Use of Public Gists on GitHub. MSR 2015: 314-323
+	[c75]		Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
+A Method to Detect License Inconsistencies in Large-Scale Open Source Projects. MSR 2015: 324-333
+	[c74]		Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+A Dataset of the Activity of the Git Super-repository of Linux in 2012. MSR 2015: 470-473
+	[c73]		Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño:
+On the Variability of the BSD and MIT Licenses. OSS 2015: 146-156
+	[c72]		Germán Poo-Caamaño, Daniel M. Germán:
+The Right to a Contribution: An Exploratory Survey on How Organizations Address It. OSS 2015: 157-167
+	[c71]		Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
+Trusting a library: A study of the latency to adopt the latest Maven release. SANER 2015: 520-524
+	[c70]		Germán Poo-Caamaño, Daniel M. Germán:
+Software patents: a replication study. OpenSym 2015: 5:1-5:4
+2014
+	[j18]		Tetsuya Kanda, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
+Measuring Copying of Java Archives. ECEASST 63 (2014)
+	[j17]		Michael W. Godfrey, Daniel M. Germán:
+On the evolution of Lehman's Laws. Journal of Software: Evolution and Process 26(7): 613-619 (2014)
+	[j16]		Chenlei Zhang, Abram Hindle, Daniel M. Germán:
+The Impact of User Choice on Energy Consumption. IEEE Software 31(3): 69-75 (2014)
+	[j15]		Peter C. Rigby, Daniel M. Germán, Laura Cowen, Margaret-Anne D. Storey:
+Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory. ACM Trans. Softw. Eng. Methodol. 23(4): 35:1-35:33 (2014)
+	[c69]		Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán:
+Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel. ESEM 2014: 51:1-51:10
+	[c68]		Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán:
+Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. ICSE Companion 2014: 448-451
+	[c67]		Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel:
+Tracing software build processes to uncover license compliance inconsistencies. ASE 2014: 731-742
+	[c66]		Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
+The promises and perils of mining GitHub. MSR 2014: 92-101
+	[c65]		Yuki Manabe, Daniel M. Germán, Katsuro Inoue:
+Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software. OSS 2014: 51-60
+	[c64]		Raula Gaikovina Kula, Coen De Roover, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
+Visualizing the Evolution of Systems and Their Library Dependencies. VISSOFT 2014: 127-136
+2013
+	[j14]		Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle:
+Software Bertillonage - Determining the provenance of software development artifacts. Empirical Software Engineering 18(6): 1195-1237 (2013)
+	[c63]		Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+The Evolution of the R Software Ecosystem. CSMR 2013: 243-252
+	[c62]		Peter C. Rigby, Earl T. Barr, Christian Bird, Premkumar T. Devanbu, Daniel M. Germán:
+What effect does distributed version control have on OSS project organization? RELENG@ICSE 2013: 29-32
+	[c61]		Colin Walters, Germán Poo-Caamaño, Daniel M. Germán:
+The future of continuous integration in GNOME. RELENG@ICSE 2013: 33-36
+	[c60]		Yujuan Jiang, Bram Adams, Daniel M. Germán:
+Will my patch make it? and how fast?: case study on the Linux kernel. MSR 2013: 101-110
+2012
+	[j13]		Daniel M. Germán, Massimiliano Di Penta:
+A Method for Open Source License Compliance of Java Applications. IEEE Software 29(3): 58-63 (2012)
+	[j12]		Peter C. Rigby, Brendan Cleary, Frédéric Painchaud, Margaret-Anne D. Storey, Daniel M. Germán:
+Contemporary Peer Review in Action: Lessons from Open Source Development. IEEE Software 29(6): 56-61 (2012)
+	[c59]		Earl T. Barr, Christian Bird, Peter C. Rigby, Abram Hindle, Daniel M. Germán, Premkumar T. Devanbu:
+Cohesive and Isolated Development with Branches. FASE 2012: 316-331
+	[c58]		Gregorio Robles, Israel Herraiz, Daniel M. Germán, Daniel Izquierdo-Cortazar:
+Modification and developer metrics at the function level: metrics for the study of the evolution of a software project. WETSoM 2012: 49-55
+	[c57]		Massimiliano Di Penta, Giuliano Antoniol, Daniel M. Germán, Yann-Gaël Guéhéneuc, Bram Adams:
+Five days of empirical software engineering: The PASED experience. ICSE 2012: 1255-1258
+2011
+	[c56]		Christopher Gat, Hanyu Zhang, Daniel M. Germán, Melanie Tory:
+gamutHeatMap: Visualizing the Colour Shift of Rendering Intent Transformations. Computational Aesthetics 2011: 81-88
+	[c55]		Israel Herraiz, Daniel M. Germán, Ahmed E. Hassan:
+On the Distribution of Source Code File Sizes. ICSOFT (2) 2011: 5-14
+	[c54]		Christopher Gat, Alexandra Branzan Albu, Daniel M. Germán, Eric Higgs:
+A Comparative Evaluation of Feature Detectors on Historic Repeat Photography. ISVC (2) 2011: 701-714
+	[c53]		Michael W. Godfrey, Daniel M. Germán, Julius Davies, Abram Hindle:
+Determining the provenance of software artifacts. IWSC 2011: 65-66
+	[c52]		Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle:
+Software bertillonage: finding the provenance of an entity. MSR 2011: 183-192
+	[c51]		Daniel M. Germán, Julius Davies:
+Apples vs. oranges?: an exploration of the challenges of comparing the source code of two software systems. MSR 2011: 246-249
+2010
+	[c50]		Thomas K. Sharpless, Bruno Postle, Daniel M. Germán:
+Pannini: A New Projection for RenderingWide Angle Perspective Images . Computational Aesthetics 2010: 9-16
+	[c49]		Massimiliano Di Penta, Daniel M. Germán, Yann-Gaël Guéhéneuc, Giuliano Antoniol:
+An exploratory study of the evolution of software licensing. ICSE (1) 2010: 145-154
+	[c48]		Daniel M. Germán, Massimiliano Di Penta, Julius Davies:
+Understanding and Auditing the Licensing of Open Source Software Distributions. ICPC 2010: 84-93
+	[c47]		Daniel M. Germán, Yuki Manabe, Katsuro Inoue:
+A sentence-matching method for automatic license identification of source code files. ASE 2010: 437-446
+	[c46]		Julius Davies, Hanyu Zhang, Lucas Nussbaum, Daniel M. Germán:
+Perspectives on bugs in the Debian bug tracking system. MSR 2010: 86-89
+	[c45]		Gargi Bougie, Christoph Treude, Daniel M. Germán, Margaret-Anne D. Storey:
+A comparative exploration of FreeBSD bug lifetimes. MSR 2010: 106-109
+	[c44]		Massimiliano Di Penta, Daniel M. Germán, Giuliano Antoniol:
+Identifying licensing of jar archives using a code-search approach. MSR 2010: 151-160
+	[c43]		Daniel M. Germán, Jens H. Webber, Massimiliano Di Penta:
+Lawful software engineering. FoSER 2010: 129-132
+[–] 2000 – 2009 
+2009
+	[j11]		Daniel M. Germán, Jaume Rigau:
+Improving scans of black and white photographs by recovering the print maker's artistic intent. Computers & Graphics 33(4): 509-520 (2009)
+	[j10]		Jesús M. González-Barahona, Gregorio Robles, Martin Michlmayr, Juan José Amor, Daniel M. Germán:
+Macro-level software evolution: a case study of a large software compilation. Empirical Software Engineering 14(3): 262-285 (2009)
+	[j9]		Daniel M. Germán, Ahmed E. Hassan, Gregorio Robles:
+Change impact graphs: Determining the impact of prior codechanges. Information & Software Technology 51(10): 1394-1408 (2009)
+	[c42]		Daniel M. Germán, Ahmed E. Hassan:
+License integration patterns: Addressing license mismatches in component-based development. ICSE 2009: 188-198
+	[c41]		Abram Hindle, Daniel M. Germán, Michael W. Godfrey, Richard C. Holt:
+Automatic classication of large changes into maintenance categories. ICPC 2009: 30-39
+	[c40]		Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu:
+The promises and perils of mining git. MSR 2009: 1-10
+	[c39]		Daniel M. Germán, Massimiliano Di Penta, Yann-Gaël Guéhéneuc, Giuliano Antoniol:
+Code siblings: Technical and legal implications of copying code between applications. MSR 2009: 81-90
+	[c38]		Daniel M. Germán, Jesús M. González-Barahona:
+An Empirical Study of the Reuse of Software Licensed under the GNU General Public License. OSS 2009: 185-198
+	[c37]		Massimiliano Di Penta, Daniel M. Germán:
+Who are Source Code Contributors and How do they Change? WCRE 2009: 11-20
+2008
+	[j8]		Holger M. Kienle, Daniel M. Germán, Scott R. Tilley, Hausi A. Müller:
+Managing legal risks associated with intellectual property on the web. IJBIS 3(1): 86-106 (2008)
+	[j7]		Chris Bennett, Del Myers, Margaret-Anne D. Storey, Daniel M. Germán, D. Ouellet, Martin Salois, Philippe Charland:
+A survey and evaluation of tool features for understanding reverse-engineered sequence diagrams. Journal of Software Maintenance 20(4): 291-315 (2008)
+	[c36]		Daniel M. Germán:
+Improving Scans of Black and White photographs by Recovering the Print Maker's Artistic Intent. Computational Aesthetics 2008: 99-106
+	[c35]		Peter C. Rigby, Daniel M. Germán, Margaret-Anne D. Storey:
+Open source software peer review practices: a case study of the apache server. ICSE 2008: 541-550
+	[c34]		Gregorio Robles, Daniel M. Germán, Andrea Capiluppi:
+1st workshop on maintenance and evolution of FLOSS (MEFLOSS). ICSM 2008: 410-411
+	[c33]		Abram Hindle, Daniel M. Germán, Richard C. Holt:
+What do large commits tell us?: a taxonomical study of large commits. MSR 2008: 99-108
+	[c32]		Israel Herraiz, Daniel M. Germán, Jesús M. González-Barahona, Gregorio Robles:
+Towards a simplification of the bug report form in eclipse. MSR 2008: 145-148
+	[c31]		Daniel M. Germán, Gregorio Robles, Ahmed E. Hassan:
+Change Impact Graphs: Determining the Impact of Prior Code Changes. SCAM 2008: 184-193
+2007
+	[c30]		Daniel M. Germán, Pablo d'Angelo, Michael Gross, Bruno Postle:
+New Methods to Project Panoramas for Practical and Aesthetic Purposes. Computational Aesthetics 2007: 15-22
+	[c29]		Daniel M. Germán, Lloyd Burchill, Alexandre Duret-Lutz, Sébastien Pérez-Duarte, Emmanuel Pérez-Duarte, Josh Sommers:
+Flattening the Viewable Sphere. Computational Aesthetics 2007: 23-28
+	[c28]		Israel Herraiz, Jesús M. González-Barahona, Gregorio Robles, Daniel M. Germán:
+On the prediction of the evolution of libre software projects. ICSM 2007: 405-414
+	[c27]		Daniel M. Germán:
+Using Software Distributions to Understand the Relationship among Free and Open Source Software Projects. MSR 2007: 24
+	[c26]		Andrew McNair, Daniel M. Germán, Jens H. Weber-Jahnke:
+Visualizing Software Architecture Evolution Using Change-Sets. WCRE 2007: 130-139
+	[c25]		Daniel M. Germán, Jesús M. González-Barahona, Gregorio Robles:
+A Model to Understand the Building and Running Inter-Dependencies of Software. WCRE 2007: 140-149
+	[c24]		Daniel M. Germán:
+Intellectual Property for Software (Re-)Engineers and Researchers: A Tutorial. WCRE 2007: 297
+2006
+	[j6]		Daniel M. Germán:
+An empirical study of fine-grained software modifications. Empirical Software Engineering 11(3): 369-393 (2006)
+	[j5]		Daniel M. Germán, Abram Hindle:
+Visualizing the Evolution of Software Using Softchange. International Journal of Software Engineering and Knowledge Engineering 16(1): 5-22 (2006)
+	[c23]		Kirby Shabaga, Daniel M. Germán:
+BioFOSS: a survey of Free/Open Source Software in Bioinformatic. CBMS 2006: 861-866
+	[c22]		Daniel M. Germán, Peter C. Rigby, Margaret-Anne D. Storey:
+Using evolutionary annotations from change logs to enhance program comprehension. MSR 2006: 159-162
+	[c21]		Daniel M. Germán:
+A study of the contributors of PostgreSQL. MSR 2006: 163-164
+2005
+	[j4]		Daniel M. Germán, Davor Cubranic, Margaret-Anne D. Storey:
+A framework for describing and understanding mining tools in software development. ACM SIGSOFT Software Engineering Notes 30(4): 1-5 (2005)
+	[j3]		Abram Hindle, Daniel M. Germán:
+SCQL: a formal model and a query language for source control repositories. ACM SIGSOFT Software Engineering Notes 30(4): 1-5 (2005)
+	[c20]		Mohammed Abul Khayes Akanda, Daniel M. Germán:
+A System of Patterns for Web Navigation. ICWE 2005: 136-141
+	[c19]		Daniel M. Germán, Abram Hindle:
+Measuring Fine-Grained Change in Software: Towards Modification-Aware Change Metrics. IEEE METRICS 2005: 28
+	[c18]		Daniel M. Germán, Davor Cubranic, Margaret-Anne D. Storey:
+A framework for describing and understanding mining tools in software development. MSR 2005
+	[c17]		Abram Hindle, Daniel M. Germán:
+SCQL: a formal model and a query language for source control repositories. MSR 2005
+	[c16]		Margaret-Anne D. Storey, Davor Cubranic, Daniel M. Germán:
+On the use of visualization to support awareness of human activities in software development: a survey and a framework. SOFTVIS 2005: 193-202
+2004
+	[j2]		Daniel M. Germán:
+Using software trails to reconstruct the evolution of software. Journal of Software Maintenance 16(6): 367-384 (2004)
+	[c15]		Del Myers, Elizabeth Hargreaves, Jody Ryall, Suzanne Thompson, Marilyn Burgess, Daniel M. Germán, Margaret-Anne D. Storey:
+Developing marking support within Eclipse. ETX 2004: 62-66
+	[c14]		Daniel M. Germán:
+An Empirical Study of Fine-Grained Software Modifications. ICSM 2004: 316-325
+	[c13]		Daniel M. Germán, Abram Hindle, Norman Jordan:
+Visualizing the evolution of software using softChange. SEKE 2004: 336-341
+	[c12]		Holger M. Kienle, Daniel M. Germán, Scott R. Tilley, Hausi A. Müller:
+Intellectual property aspects of web publishing. SIGDOC 2004: 136-144
+	[c11]		Holger M. Kienle, Daniel M. Germán, Hausi A. Müller:
+Legal Concerns of Web Site Reverse Engineering. WSE 2004: 41-50
+2003
+	[j1]		Daniel M. Germán:
+The GNOME project: a case study of open source, global software development. Software Process: Improvement and Practice 8(4): 201-215 (2003)
+	[c10]		Stephen Kerr, Daniel M. Germán:
+Partitioning the Navigational Model: A Component-Driven Approach. ICWE 2003: 445-448
+	[c9]		Mohammed Abul Khayes Akanda, Daniel M. Germán:
+A Component-Oriented Framework for the Implementation of Navigational Design Patterns. ICWE 2003: 449-450
+	[c8]		Margaret-Anne D. Storey, Daniela Damian, Jeff Michaud, Del Myers, Marcellus Mindel, Daniel M. Germán, Mary Sanseverino, Elizabeth Hargreaves:
+Improving the usability of Eclipse for novice programmers. OOPSLA Workshop on Eclipse Technology eXchange 2003: 35-39
+2000
+	[b1]		Daniel M. Germán:
+Hadez, a Framework for the Specification and Verification of Hypermedia Applications. University of Waterloo, Ontario, Canada 2000
+	[c7]		Daniel M. Germán, Donald D. Cowan:
+Towards a Unified Catalog of Hypermedia Design Patterns. HICSS 2000
+[–] 1990 – 1999 
+1999
+	[c6]		Daniel M. Germán, Donald D. Cowan:
+Formalizing the Specification of Web Applications. ER (Workshops) 1999: 281-292
+	[c5]		B. Fraser, J. Roberts, G. M. Pianosi, Paulo S. C. Alencar, Donald D. Cowan, Daniel M. Germán, L. C. M. Nova:
+Dynamic views of SGML tagged documents. SIGDOC 1999: 93-98
+1996
+	[c4]		Daniel M. Germán, Donald D. Cowan:
+A Federated Database for Hypermedia Development for the WWW. CODAS 1996: 178-181
+1995
+	[c3]		Daniel M. Germán, Donald D. Cowan:
+Experiments with the Z Interchange Format and SGML. ZUM 1995: 224-233
+1994
+	[c2]		Daniel M. Germán:
+An SGML-based programming environment for literate programming. CASCON 1994: 47
+	[c1]		Donald D. Cowan, Daniel M. Germán, Carlos José Pereira de Lucena, Arndt von Staa:
+Enhancing Code for Readability and Comprehension Using SGML. ICSM 1994: 181-190#+END_SRC
