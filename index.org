@@ -11,7 +11,7 @@
 #+PROPERTY: header-args:R               :results output  :colnames yes
 #+OPTIONS: ^:nil
 
-This list is incomplete. For a more complete list, see [[#other-sources][OtherSources]] below.
+This list is incomplete. For a more complete list, see [[#other-sources][Other Sources]] below.
 
 ** Table of contents                                                    :TOC:
 - [[#other-sources][Other sources]]
@@ -51,7 +51,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][OtherSo
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
-   OSS 2017: 69-79@@html:<br>@@
+   OSS 2017: 69-79. *Selected as one of the best papers and invited for journal's special issue of the conference*@@html:<br>@@
    [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
 
 3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
@@ -163,7 +163,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][OtherSo
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
-   OSS 2017: 69-79@@html:<br>@@
+   OSS 2017: 69-79. *Selected as one of the best papers and invited for journal's special issue of the conference*@@html:<br>@@
    [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
 
 9. Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Ali Ouni, Katsuro Inoue:
@@ -218,10 +218,11 @@ This list is incomplete. For a more complete list, see [[#other-sources][OtherSo
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
 7. Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán:
-   What Is the Gist? Understanding the Use of Public Gists on GitHub. MSR 2015: 314-323
+   What Is the Gist? Understanding the Use of Public Gists on GitHub. @@html:<br>@@
+   MSR 2015: 314-323
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
-   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
+   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    MSR 2015: 324-333@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
 
