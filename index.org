@@ -109,7 +109,7 @@
 1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
     Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
     Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
-[[https://link.springer.com/article/10.1007/s10664-012-9199-7][    Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
+    [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
 
 * By year
@@ -225,7 +225,7 @@
     Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4@@html:<br>@@
     [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publisher's Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
 
-* 2014
+** 2014
 
 1. Tetsuya Kanda, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
    Measuring Copying of Java Archives. ECEASST 63 (2014)@@html:<br>@@
@@ -266,7 +266,7 @@
 1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
    Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
    Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
-[[https://link.springer.com/article/10.1007/s10664-012-9199-7][   Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
+   [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
 * To be done
 
