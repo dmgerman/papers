@@ -11,10 +11,29 @@
 #+PROPERTY: header-args:R               :results output  :colnames yes
 #+OPTIONS: ^:nil
 
+* Other sources
+
+1. [[https://scholar.google.com/citations?user=hpxl9PEAAAAJ][My Google scholar]]
+
+2. [[http://dblp2.uni-trier.de/pers/hd/g/Germ=aacute=n:Daniel_M=][DBLP]]
 
 
-* Intellectual Property 
+* By topic: Intellectual Property 
 
+1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
+   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.
+   Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
+
+1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
+   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
+   ICSE 2017: 118-129@@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7985655/][Publishers copy]] [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
+
+8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
+   Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
+   OSS 2017: 69-79@@html:<br>@@
+   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publishers copy]] (open access) [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
 
 
 * By year
@@ -22,12 +41,12 @@
 ** 2017
 
 1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
-   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue: @@html:<br>@@
+   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.
    Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
    
 2. *The Debsources Dataset: two decades of free and open source software* @@html:<br>@@
-   Matthieu Caneill, Daniel M. Germán, Stefano Zacchiroli. @@html:<br>@@
+   Matthieu Caneill, Daniel M. Germán, Stefano Zacchiroli.
    Empirical Software Engineering 22(3): 1405-1437 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9461-5][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_debsources/2017_emse_debsources.pdf][Local copy]]
 
@@ -53,54 +72,76 @@
 9. Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Ali Ouni, Katsuro Inoue:
    An exploratory study on library aging by monitoring client usage in a software ecosystem. SANER 2017: 407-411
 
+** 2016
+
+1. Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+   Continuously mining distributed version control systems: an empirical study of how Linux uses Git. Empirical Software Engineering 21(1): 260-299 (2016)
+
+2. Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán:
+   An empirical study of integration activities in distributions of open source software. Empirical Software Engineering 21(3): 960-1001 (2016)
+	
+3. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian:
+   An in-depth study of the promises and perils of mining GitHub. Empirical Software Engineering 21(5): 2035-2071 (2016)
+
+4. Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
+   Software ingredients: detection of third-party component reuse in Java software release. MSR 2016: 339-350
+
+5. Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño:
+   How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists. MSR 2016: 441-451
+	
+6. Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán:
+   Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. OSS 2016: 147-162
+
+7. Evan Wilde, Daniel M. Germán:
+   Merge-Tree: Visualizing the Integration of Commits into Linux. VISSOFT 2016: 1-10
+
+** 2015
+
+1. Nicolas Bettenburg, Ahmed E. Hassan, Bram Adams, Daniel M. Germán:
+   Management of community contributions. Empirical Software Engineering 20(1): 252-289 (2015)
+
+3. Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:
+   People Analytics in Software Development. GTTSE 2015: 124-153
+
+4. Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán:
+   Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub. ICSE (1) 2015: 574-585
+
+5. *When and why developers adopt and change software licenses* @@html:<br>@@
+   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
+   ICSME 2015: 31-40 @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7332449/][Publishes copy]] [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+
+6. Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
+   License usage and changes: a large-scale study of Java projects on GitHub. ICPC 2015: 218-228
+
+7. Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán:
+   What Is the Gist? Understanding the Use of Public Gists on GitHub. MSR 2015: 314-323
+
+8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
+   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
+   MSR 2015: 324-333@@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7180091/][Publisher copy]] [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
+
+9. Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+   A Dataset of the Activity of the Git Super-repository of Linux in 2012. MSR 2015: 470-473
+
+10. Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño:
+    On the Variability of the BSD and MIT Licenses. OSS 2015: 146-156
+
+11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán.  OSS 2015: 157-167 @@html:<br>@@
+    
+12. Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
+    Trusting a library: A study of the latency to adopt the latest Maven release. SANER 2015: 520-524
+
+13. *Software patents: a replication study* @@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4
+
 
 * To be done
 
 
-
 #+BEGIN_SRC example
-2016
-	[j23]		Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
-Continuously mining distributed version control systems: an empirical study of how Linux uses Git. Empirical Software Engineering 21(1): 260-299 (2016)
-	[j22]		Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán:
-An empirical study of integration activities in distributions of open source software. Empirical Software Engineering 21(3): 960-1001 (2016)
-	[j21]		Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian:
-An in-depth study of the promises and perils of mining GitHub. Empirical Software Engineering 21(5): 2035-2071 (2016)
-	[c84]		Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
-Software ingredients: detection of third-party component reuse in Java software release. MSR 2016: 339-350
-	[c83]		Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño:
-How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists. MSR 2016: 441-451
-	[c82]		Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán:
-Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. OSS 2016: 147-162
-	[c81]		Evan Wilde, Daniel M. Germán:
-Merge-Tree: Visualizing the Integration of Commits into Linux. VISSOFT 2016: 1-10
-2015
-	[j20]		Nicolas Bettenburg, Ahmed E. Hassan, Bram Adams, Daniel M. Germán:
-Management of community contributions. Empirical Software Engineering 20(1): 252-289 (2015)
-	[j19]		Sanghoon Lee, Daniel M. Germán, Seung-won Hwang, Sunghun Kim:
-Crowdsourcing Identification of License Violations. JCSE 9(4) (2015)
-	[c80]		Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:
-People Analytics in Software Development. GTTSE 2015: 124-153
-	[c79]		Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán:
-Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub. ICSE (1) 2015: 574-585
-	[c78]		Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
-When and why developers adopt and change software licenses. ICSME 2015: 31-40
-	[c77]		Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
-License usage and changes: a large-scale study of Java projects on GitHub. ICPC 2015: 218-228
-	[c76]		Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán:
-What Is the Gist? Understanding the Use of Public Gists on GitHub. MSR 2015: 314-323
-	[c75]		Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
-A Method to Detect License Inconsistencies in Large-Scale Open Source Projects. MSR 2015: 324-333
-	[c74]		Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
-A Dataset of the Activity of the Git Super-repository of Linux in 2012. MSR 2015: 470-473
-	[c73]		Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño:
-On the Variability of the BSD and MIT Licenses. OSS 2015: 146-156
-	[c72]		Germán Poo-Caamaño, Daniel M. Germán:
-The Right to a Contribution: An Exploratory Survey on How Organizations Address It. OSS 2015: 157-167
-	[c71]		Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
-Trusting a library: A study of the latency to adopt the latest Maven release. SANER 2015: 520-524
-	[c70]		Germán Poo-Caamaño, Daniel M. Germán:
-Software patents: a replication study. OpenSym 2015: 5:1-5:4
 2014
 	[j18]		Tetsuya Kanda, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
 Measuring Copying of Java Archives. ECEASST 63 (2014)
