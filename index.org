@@ -76,6 +76,12 @@
 
 ** Provenance
 
+*** 2016
+
+1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
+    Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+    Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
+    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
 
 
@@ -119,8 +125,10 @@
 
 ** 2016
 
-1. Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
-   Continuously mining distributed version control systems: an empirical study of how Linux uses Git. Empirical Software Engineering 21(1): 260-299 (2016)
+1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
+    Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+    Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
+    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
 2. Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán:
    An empirical study of integration activities in distributions of open source software. Empirical Software Engineering 21(3): 960-1001 (2016)
@@ -207,8 +215,10 @@
 6. Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán:
    Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. ICSE Companion 2014: 448-451@@html:<br>@@
 
-7.  Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel:
-    Tracing software build processes to uncover license compliance inconsistencies. ASE 2014: 731-742@@html:<br>@@
+7. *Tracing software build processes to uncover license compliance inconsistencies*
+   Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel:
+   ASE 2014: 731-742@@html:<br>@@
+   [[http://dl.acm.org/citation.cfm?id=2643013][Publishers copy]] | 
 
 8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
    The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
