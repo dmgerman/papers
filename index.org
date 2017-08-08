@@ -15,15 +15,15 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** Table of contents                                                    :TOC:
 - [[#other-sources][Other sources]]
-- [[#by-topic][By topic]]
-  - [[#intellectual-property][Intellectual Property]]
-  - [[#provenance][Provenance]]
 - [[#by-year][By year]]
   - [[#2017][2017]]
   - [[#2016][2016]]
   - [[#2015][2015]]
   - [[#2014][2014]]
   - [[#2013][2013]]
+- [[#by-topic][By topic]]
+  - [[#intellectual-property][Intellectual Property]]
+  - [[#provenance][Provenance]]
 - [[#to-be-done][To be done]]
 
 * Other sources 
@@ -31,107 +31,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 1. [[https://scholar.google.com/citations?user=hpxl9PEAAAAJ][My Google scholar]]
 
 2. My entry in [[http://dblp2.uni-trier.de/pers/hd/g/Germ=aacute=n:Daniel_M=][DBLP]]
-
-
-* By topic 
-
-** Intellectual Property
-
-*** 2017
-
-1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
-   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
-   Journal of Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
-   [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publisher's copy]] | [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
-
-1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
-   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
-   International Conference in Software Engineering (ICSE) Research Track 2017: 118-129@@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
-
-3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
-   Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
-   Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
-   [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
-
-8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
-   Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
-   OSS 2017: 69-79. @@html:<br>@@
-   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
-
-
-*** 2015
-
-5. *When and why developers adopt and change software licenses* @@html:<br>@@
-   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
-   ICSME 2015: 31-40 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7332449/][Publishes copy]] | [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
-
-8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
-   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
-   MSR 2015: 324-333@@html:<br>@@
-   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
-
-6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
-   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
-   ICPC 2015: 218-228@@html:<br>@@
-   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
-
-10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
-    Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. @@html:<br>@@
-    OSS 2015: 146-156@@html:<br>@@
-    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
-
-11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
-    Germán Poo-Caamaño, Daniel M. Germán.@@html:<br>@@
-    OSS 2015: 157-167 @@html:<br>@@
-    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:./2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
-    
-13. *Software patents: a replication study* @@html:<br>@@
-    Germán Poo-Caamaño, Daniel M. Germán. @@html:<br>@@
-    OpenSym 2015: 5:1-5:4@@html:<br>@@
-    [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publisher's Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
-
-*** 2014
-
-7. *Tracing software build processes to uncover license compliance inconsistencies* @@html:<br>@@
-   Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel.@@html:<br>@@
-   ASE 2014: 731-742@@html:<br>@@
-   [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]] 
-
-** Provenance
-
-*** 2016
-
-1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
-    Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
-    Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
-    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
-
-*** 2015
-
-4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
-   Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
-   MSR 2016: 339-350 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:2016/conferences/2016_msr_software-ingredients/2016_msr_software-ingredients.pdf][Local copy]] 
-
-
-*** 2014
-
-5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
-   Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.@@html:<br>@@
-   ESEM 2014: 51:1-51:10@@html:<br>@@
-   [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
-
-*** 2013
-
-1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
-    Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
-    Journal of Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
-    [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
 
 * By year
@@ -304,6 +203,107 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
    Journal of Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
+
+
+* By topic 
+
+** Intellectual Property
+
+*** 2017
+
+1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
+   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publisher's copy]] | [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
+
+1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
+   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
+   International Conference in Software Engineering (ICSE) Research Track 2017: 118-129@@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
+
+3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
+   Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
+
+8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
+   Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
+   OSS 2017: 69-79. @@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
+   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
+
+
+*** 2015
+
+5. *When and why developers adopt and change software licenses* @@html:<br>@@
+   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
+   ICSME 2015: 31-40 @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7332449/][Publishes copy]] | [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+
+8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
+   Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
+   MSR 2015: 324-333@@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
+
+6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
+   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
+   ICPC 2015: 218-228@@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
+
+10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
+    Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. @@html:<br>@@
+    OSS 2015: 146-156@@html:<br>@@
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
+
+11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán.@@html:<br>@@
+    OSS 2015: 157-167 @@html:<br>@@
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:./2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
+    
+13. *Software patents: a replication study* @@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán. @@html:<br>@@
+    OpenSym 2015: 5:1-5:4@@html:<br>@@
+    [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publisher's Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
+
+*** 2014
+
+7. *Tracing software build processes to uncover license compliance inconsistencies* @@html:<br>@@
+   Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel.@@html:<br>@@
+   ASE 2014: 731-742@@html:<br>@@
+   [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]] 
+
+** Provenance
+
+*** 2016
+
+1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
+    Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
+    Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
+    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
+
+*** 2015
+
+4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
+   Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
+   MSR 2016: 339-350 @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:2016/conferences/2016_msr_software-ingredients/2016_msr_software-ingredients.pdf][Local copy]] 
+
+
+*** 2014
+
+5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
+   Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.@@html:<br>@@
+   ESEM 2014: 51:1-51:10@@html:<br>@@
+   [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
+
+*** 2013
+
+1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
+    Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
+    Journal of Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
+    [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
 * To be done
 
