@@ -11,7 +11,7 @@
 #+PROPERTY: header-args:R               :results output  :colnames yes
 #+OPTIONS: ^:nil
 
-* Table of contents :TOC:
+** Table of contents                                                    :TOC:
 - [[#other-sources][Other sources]]
 - [[#by-topic][By topic]]
   - [[#intellectual-property][Intellectual Property]]
