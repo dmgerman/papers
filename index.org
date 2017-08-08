@@ -146,8 +146,9 @@
 3. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian:
    An in-depth study of the promises and perils of mining GitHub. Empirical Software Engineering 21(5): 2035-2071 (2016)
 
-4. Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
-   Software ingredients: detection of third-party component reuse in Java software release. MSR 2016: 339-350
+4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
+   Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue: MSR 2016: 339-350 @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:2016/conferences/2015_msr_software-ingredients/2015_msr_software-ingredients.pdf][Local copy]] 
 
 5. Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño:
    How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists. MSR 2016: 441-451
