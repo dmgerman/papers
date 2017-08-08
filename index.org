@@ -51,7 +51,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
-   OSS 2017: 69-79. *Selected as one of the best papers and invited for journal's special issue of the conference*@@html:<br>@@
+   OSS 2017: 69-79. *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
 
 3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
@@ -163,7 +163,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
-   OSS 2017: 69-79. *Selected as one of the best papers and invited for journal's special issue of the conference*@@html:<br>@@
+   OSS 2017: 69-79. *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
 
 9. Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Ali Ouni, Katsuro Inoue:
