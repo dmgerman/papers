@@ -62,15 +62,18 @@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
-    Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. OSS 2015: 146-156@@html:<br>@@
+    Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. @@html:<br>@@
+    OSS 2015: 146-156@@html:<br>@@
     [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
 
 11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
-    Germán Poo-Caamaño, Daniel M. Germán.  OSS 2015: 157-167 @@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán.@@html:<br>@@
+    OSS 2015: 157-167 @@html:<br>@@
     [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:./2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
     
 13. *Software patents: a replication study* @@html:<br>@@
-    Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4@@html:<br>@@
+    Germán Poo-Caamaño, Daniel M. Germán. @@html:<br>@@
+    OpenSym 2015: 5:1-5:4@@html:<br>@@
     [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publisher's Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
 
 *** 2014
@@ -171,8 +174,9 @@
 5. Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño:
    How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists. MSR 2016: 441-451
 	
-6. Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán:
-   Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. OSS 2016: 147-162
+6. Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán:@@html:<br>@@
+   Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. @@html:<br>@@
+   OSS 2016: 147-162
 
 7. Evan Wilde, Daniel M. Germán:
    Merge-Tree: Visualizing the Integration of Commits into Linux. VISSOFT 2016: 1-10
@@ -210,7 +214,8 @@
    A Dataset of the Activity of the Git Super-repository of Linux in 2012. MSR 2015: 470-473
 
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
-    Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. OSS 2015: 146-156@@html:<br>@@
+    Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño.@@html:<br>@@
+    OSS 2015: 146-156@@html:<br>@@
     [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
 
 11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
@@ -255,8 +260,9 @@
 8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
    The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
 
-9. Yuki Manabe, Daniel M. Germán, Katsuro Inoue:
-   Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software. OSS 2014: 51-60@@html:<br>@@
+9. Yuki Manabe, Daniel M. Germán, Katsuro Inoue:@@html:<br>@@
+   Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software. @@html:<br>@@
+   OSS 2014: 51-60@@html:<br>@@
 
 10. Raula Gaikovina Kula, Coen De Roover, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
    Visualizing the Evolution of Systems and Their Library Dependencies. VISSOFT 2014: 127-136@@html:<br>@@
