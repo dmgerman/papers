@@ -11,6 +11,8 @@
 #+PROPERTY: header-args:R               :results output  :colnames yes
 #+OPTIONS: ^:nil
 
+This list is incomplete. For a more complete list, see [[#other-sources][OtherSources]] below.
+
 ** Table of contents                                                    :TOC:
 - [[#other-sources][Other sources]]
 - [[#by-topic][By topic]]
