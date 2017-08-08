@@ -18,7 +18,11 @@
 2. [[http://dblp2.uni-trier.de/pers/hd/g/Germ=aacute=n:Daniel_M=][DBLP]]
 
 
-* By topic: Intellectual Property 
+* By topic 
+
+** Intellectual Property
+
+*** 2017
 
 1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.
@@ -34,6 +38,13 @@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
    OSS 2017: 69-79@@html:<br>@@
    [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publishers copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
+
+3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
+   Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.
+   Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publishers copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
+
+*** 2015
 
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
@@ -63,6 +74,10 @@
     [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publishers Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
 
 
+** Provenance
+
+
+
 
 * By year
 
@@ -78,8 +93,10 @@
    Empirical Software Engineering 22(3): 1405-1437 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9461-5][Publishers copy]] | [[file:2017/journal/2017_emse-msr-special-issue_debsources/2017_emse_debsources.pdf][Local copy]]
 
-3. Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk:
-   License usage and changes: a large-scale study on gitHub. Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
+   Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.
+   Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publishers copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
 
 5. Ali Ouni, Raula Gaikovina Kula, Marouane Kessentini, Takashi Ishio, Daniel M. Germán, Katsuro Inoue:
    Search-based software library recommendation using multi-objective optimization. Information & Software Technology 83: 55-75 (2017)@@html:<br>@@
@@ -170,32 +187,43 @@
     Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4@@html:<br>@@
     [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publishers Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
 
+* 2014
+
+1. Tetsuya Kanda, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
+   Measuring Copying of Java Archives. ECEASST 63 (2014)@@html:<br>@@
+
+2. Michael W. Godfrey, Daniel M. Germán:
+   On the evolution of Lehman's Laws. Journal of Software: Evolution and Process 26(7): 613-619 (2014)@@html:<br>@@
+
+3. Chenlei Zhang, Abram Hindle, Daniel M. Germán:
+   The Impact of User Choice on Energy Consumption. IEEE Software 31(3): 69-75 (2014)@@html:<br>@@
+
+4. Peter C. Rigby, Daniel M. Germán, Laura Cowen, Margaret-Anne D. Storey:
+   Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory. ACM Trans. Softw. Eng. Methodol. 23(4): 35:1-35:33 (2014)@@html:<br>@@
+
+5. Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán:
+   Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel. ESEM 2014: 51:1-51:10@@html:<br>@@
+
+6. Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán:
+   Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. ICSE Companion 2014: 448-451@@html:<br>@@
+
+7.  Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel:
+    Tracing software build processes to uncover license compliance inconsistencies. ASE 2014: 731-742@@html:<br>@@
+
+8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
+   The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
+
+9. Yuki Manabe, Daniel M. Germán, Katsuro Inoue:
+   Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software. OSS 2014: 51-60@@html:<br>@@
+
+10. Raula Gaikovina Kula, Coen De Roover, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
+   Visualizing the Evolution of Systems and Their Library Dependencies. VISSOFT 2014: 127-136@@html:<br>@@
 
 * To be done
 
 
 #+BEGIN_SRC example
 2014
-	[j18]		Tetsuya Kanda, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
-Measuring Copying of Java Archives. ECEASST 63 (2014)
-	[j17]		Michael W. Godfrey, Daniel M. Germán:
-On the evolution of Lehman's Laws. Journal of Software: Evolution and Process 26(7): 613-619 (2014)
-	[j16]		Chenlei Zhang, Abram Hindle, Daniel M. Germán:
-The Impact of User Choice on Energy Consumption. IEEE Software 31(3): 69-75 (2014)
-	[j15]		Peter C. Rigby, Daniel M. Germán, Laura Cowen, Margaret-Anne D. Storey:
-Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory. ACM Trans. Softw. Eng. Methodol. 23(4): 35:1-35:33 (2014)
-	[c69]		Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán:
-Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel. ESEM 2014: 51:1-51:10
-	[c68]		Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán:
-Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. ICSE Companion 2014: 448-451
-	[c67]		Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel:
-Tracing software build processes to uncover license compliance inconsistencies. ASE 2014: 731-742
-	[c66]		Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
-The promises and perils of mining GitHub. MSR 2014: 92-101
-	[c65]		Yuki Manabe, Daniel M. Germán, Katsuro Inoue:
-Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software. OSS 2014: 51-60
-	[c64]		Raula Gaikovina Kula, Coen De Roover, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
-Visualizing the Evolution of Systems and Their Library Dependencies. VISSOFT 2014: 127-136
 2013
 	[j14]		Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle:
 Software Bertillonage - Determining the provenance of software development artifacts. Empirical Software Engineering 18(6): 1195-1237 (2013)
