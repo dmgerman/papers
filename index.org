@@ -23,27 +23,27 @@
 1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.
    Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
-   [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publishers copy]] [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
+   [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publishers copy]] | [[file:2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
 
 1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
    ICSE 2017: 118-129@@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7985655/][Publishers copy]] [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7985655/][Publishers copy]] | [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
    OSS 2017: 69-79@@html:<br>@@
-   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publishers copy]] (open access) [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
+   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publishers copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
 
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk:
    ICSME 2015: 31-40 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7332449/][Publishes copy]] [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7332449/][Publishes copy]] | [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue:
    MSR 2015: 324-333@@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7180091/][Publisher copy]] [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7180091/][Publisher copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
 
 
 * By year
