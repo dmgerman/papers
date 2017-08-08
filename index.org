@@ -152,7 +152,7 @@
     Trusting a library: A study of the latency to adopt the latest Maven release. SANER 2015: 520-524
 
 13. *Software patents: a replication study* @@html:<br>@@
-    Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4
+    Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4@@html:<br>@@
     [[http://www.opensym.org/os2015/proceedings-files/p104-poo-caamano.pdf][Publishers Copy]] (open access) | [[file:./2015/conferences/2015_opensym_parents-replication/2015_opensym_parents-replication.pdf][Local copy]]
 
 
