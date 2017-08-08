@@ -70,11 +70,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    MSR 2015: 324-333@@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
 
 6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICPC 2015: 218-228@@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
@@ -190,13 +192,16 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 5. Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño:
    How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists. MSR 2016: 441-451
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
 	
 6. Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán:@@html:<br>@@
    Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. @@html:<br>@@
    OSS 2016: 147-162
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
 
 7. Evan Wilde, Daniel M. Germán:
    Merge-Tree: Visualizing the Integration of Commits into Linux. VISSOFT 2016: 1-10
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
 
 ** 2015
 
@@ -217,6 +222,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICPC 2015: 218-228@@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
 7. Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán:
@@ -226,6 +232,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    MSR 2015: 324-333@@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
 
 9. Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
