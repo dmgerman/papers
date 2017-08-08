@@ -144,9 +144,11 @@
 
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
     Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. OSS 2015: 146-156@@html:<br>@@
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher copy]] | [[file:2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
 
 11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
     Germán Poo-Caamaño, Daniel M. Germán.  OSS 2015: 157-167 @@html:<br>@@
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher copy]] | [[file:./2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
     
 12. Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
     Trusting a library: A study of the latency to adopt the latest Maven release. SANER 2015: 520-524
