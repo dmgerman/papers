@@ -89,6 +89,15 @@
     Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
+*** 2015
+
+4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
+   Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue: MSR 2016: 339-350 @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:2016/conferences/2016_msr_software-ingredients/2016_msr_software-ingredients.pdf][Local copy]] 
+
+
+*** 2014
+
 5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
    Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.
    ESEM 2014: 51:1-51:10@@html:<br>@@
