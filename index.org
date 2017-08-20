@@ -16,6 +16,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 ** Table of contents                                                    :TOC:
 - [[#other-sources][Other sources]]
 - [[#by-year][By year]]
+  - [[#to-appear][To appear]]
   - [[#2017][2017]]
   - [[#2016][2016]]
   - [[#2015][2015]]
@@ -34,6 +35,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 
 * By year
+
+** To appear
+
+1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@hrml:<br>@@
+   Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@hrml:<br>@@
+   Journal of Empirical Software Engineering. DOI  10.1007/s10664-017-9536-y
+   [[https://link.springer.com/article/10.1007%252Fs10664-017-9536-y][Publisher's copy]] | [[file:to-appear/emse-msr-special-issue_r-community/r-know-journal.pdf][Local copy]]
 
 ** 2017
 
