@@ -39,7 +39,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 This is text:@@html:<br>@@
 
 @@html:<font color="#EC7063">Test</font>@@
-
+@@html:<b>Bold</b>@@
 
 ** To appear
 
