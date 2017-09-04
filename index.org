@@ -15,7 +15,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** Table of contents                                                    :TOC:
 - [[#other-sources][Other sources]]
-- [[#htmlfont-colorec7063by-yearfont][@@html:<font color="#EC7063">By year</font>]]
+- [[#htmlfont-colorec7063by-yearfont][@@html:<font color="#EC7063">By year</font>@@]]
   - [[#to-appear][To appear]]
   - [[#2017][2017]]
   - [[#2016][2016]]
@@ -34,7 +34,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 2. My entry in [[http://dblp2.uni-trier.de/pers/hd/g/Germ=aacute=n:Daniel_M=][DBLP]]
 
 
-* @@html:<font color="#EC7063">By year</font>
+* @@html:<font color="#EC7063">By year</font>@@
 
 ** To appear
 
