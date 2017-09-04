@@ -36,15 +36,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 * By year
 
-This is text:@@html:<br>@@
-
-adadf@@html:<font color=#EC7063>Test</font>@@
-adadf@@html:<font color=red>@@
-Tes2
-@@html:</font>@@
-xasdfasd@@html:<br>@@
-bdafd@@html:<b>Bold</b>@@
-
 ** To appear
 
 1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
