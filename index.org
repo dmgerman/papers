@@ -70,6 +70,11 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    IEEE Trans. Software Eng. 43(2): 185-204 (2017)@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7498605/][Publisher's copy]] | [[file:./2017/journal/2017_tse_social-comm-channels/2017_tse_social-comm-channels.pdf][Local copy]]
 
+7. *Herding cats in a FOSS ecosystem: a tale of communication and coordination for release management* @@html:<br>@@hrml 
+   Germán Poo-Caamaño, Eric Knauss,LeifSinger, and Daniel M. German@@html:<br>@@
+   Journal of Internet Services and Applications  8:12 (2017)@@html:<br>@@
+   [[https://jisajournal.springeropen.com/articles/10.1186/s13174-017-0063-2][Publisher's copy]] | [[file:2017/journal/2017_jisa_hearding-cats/jisa-cats.pdf][Local copy]]
+
 1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
    International Conference in Software Engineering (ICSE) Research Track 2017: 118-129@@html:<br>@@
@@ -85,6 +90,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Ali Ouni, Katsuro Inoue @@html:<br>@@
    International Conference on Software Analysis, Evolution, and Reengineering (SANER) 2017, Early Research Achievements (ERA) Track Track 407-411 @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7884643/][Publisher's copy]] | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]]
+
 
 ** 2016
 
@@ -326,7 +332,7 @@ The Evolution of the R Software Ecosystem. CSMR 2013: 243-252
 What effect does distributed version control have on OSS project organization? RELENG@ICSE 2013: 29-32
 	[c61]		Colin Walters, Germán Poo-Caamaño, Daniel M. Germán:
 The future of continuous integration in GNOME. RELENG@ICSE 2013: 33-36
-	[c60]		Yujuan Jiang, Bram Adams, Daniel M. Germán:
+	[c60]		Yujuan Jiang, Bram Adams, Dbaniel M. Germán:
 Will my patch make it? and how fast?: case study on the Linux kernel. MSR 2013: 101-110
 2012
 	[j13]		Daniel M. Germán, Massimiliano Di Penta:
