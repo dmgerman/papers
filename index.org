@@ -39,7 +39,9 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 This is text:@@html:<br>@@
 
 adadf@@html:<font color=#EC7063>Test</font>@@
-adadf@@html:<font color=red>Tes2</font>@@
+adadf@@html:<font color=red>@@
+Tes2
+@@html:</font>@@
 xasdfasd@@html:<br>@@
 bdafd@@html:<b>Bold</b>@@
 
