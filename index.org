@@ -45,6 +45,11 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** 2017
 
+1. *An empirical study of unspecified dependencies in make-based build systems* @@html:<br>@@
+   Cor-Paul Bezemer, Shane McIntosh, Bram Adams, Daniel M. German, and Ahmed E. Hassan.@@html:<br>@@
+   Journal of Empirical Software Engineering 22(6): 3117–3148 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-017-9510-8][Publisher's Copy]] | [[./2017/journal/2017_emse_build-dependencies/emse_build-dependencies.pdf][Local copy]]
+
 1. *Analysis of license inconsistency in large collections of open source projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    Journal of Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
@@ -60,22 +65,22 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
 
-5. *Search-based software library recommendation using multi-objective optimization* @@html:<br>@@
+4. *Search-based software library recommendation using multi-objective optimization* @@html:<br>@@
    Ali Ouni, Raula Gaikovina Kula, Marouane Kessentini, Takashi Ishio, Daniel M. Germán, Katsuro Inoue.
    Journal of Information & Software Technology 83: 55-75 (2017)@@html:<br>@@
    [[http://www.sciencedirect.com/science/article/pii/S0950584916303652][Publisher's copy]] | [[file:./2017/journal/2017_ist_search-based-lib-recomm/2017_ist_search-based-lib-recommn.pdf][Local copy]]
 
-6. *How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development* @@html:<br>@@
+5. *How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development* @@html:<br>@@
    Margaret-Anne D. Storey, Alexey Zagalsky, Fernando Marques Figueira Filho, Leif Singer, Daniel M. Germán @@html:<br>@@
    IEEE Trans. Software Eng. 43(2): 185-204 (2017)@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7498605/][Publisher's copy]] | [[file:./2017/journal/2017_tse_social-comm-channels/2017_tse_social-comm-channels.pdf][Local copy]]
 
-7. *Herding cats in a FOSS ecosystem: a tale of communication and coordination for release management* @@html:<br>@@hrml 
+6. *Herding cats in a FOSS ecosystem: a tale of communication and coordination for release management* @@html:<br>@@hrml 
    Germán Poo-Caamaño, Eric Knauss,LeifSinger, and Daniel M. German@@html:<br>@@
    Journal of Internet Services and Applications  8:12 (2017)@@html:<br>@@
    [[https://jisajournal.springeropen.com/articles/10.1186/s13174-017-0063-2][Publisher's copy]] | [[file:2017/journal/2017_jisa_hearding-cats/jisa-cats.pdf][Local copy]]
 
-1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
+7. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
    International Conference in Software Engineering (ICSE) Research Track 2017: 118-129@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:./2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
