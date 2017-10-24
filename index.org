@@ -160,18 +160,20 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
-7. What Is the Gist? Understanding the Use of Public Gists on GitHub. @@html:<br>@@
+7. *What Is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
-   MSR 2015: 314-323
+   12th Working Conference on Mining Software Repositories (MSR 2015): 314-323
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
-   MSR 2015: 324-333@@html:<br>@@
+   12th Working Conference on Mining Software Repositories (MSR 2015): 324-333@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
 
-9. Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
-   A Dataset of the Activity of the Git Super-repository of Linux in 2012. MSR 2015: 470-473
+9. *A Dataset of the Activity of the Git Super-repository of Linux in 2012* 
+   Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
+   12th Working Conference on Mining Software Repositories (MSR 2015): 470-473
+   [[https://dl.acm.org/citation.cfm?id=2820518.2820590][Publisher's copy]]
 
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
     Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño.@@html:<br>@@
@@ -183,8 +185,9 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
     OSS 2015: 157-167 @@html:<br>@@
     [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:./2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
     
-12. Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
-    Trusting a library: A study of the latency to adopt the latest Maven release. International Conference on Software Analysis, Evolution, and Reengineering (SANER) 2015: 520-524
+12. *Trusting a library: A study of the latency to adopt the latest Maven release* @@html:<br>@@
+     Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Katsuro Inoue @@html:<br>@@
+    International Conference on Software Analysis, Evolution, and Reengineering (SANER) 2015: 520-524 @@html:<br>@@
 
 13. *Software patents: a replication study* @@html:<br>@@
     Germán Poo-Caamaño, Daniel M. Germán. OpenSym 2015: 5:1-5:4@@html:<br>@@
@@ -272,7 +275,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
-   MSR 2015: 324-333@@html:<br>@@
+   12th Working Conference on Mining Software Repositories (MSR 2015): 324-333@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
 
@@ -354,7 +357,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 3. *An in-depth study of the promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian.@@html:<br>@@
-   . Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
+   Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-015-9393-5][Publishers copy]] | [[https://github.com/dmgerman/papers/raw/master/2016/journals/2016_emse_perils-github-extended/2016_emse_perils-github-extended.pdf][Local copy]]
 
 4. *Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub* @@html:<br>@@
@@ -369,10 +372,16 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 7. What Is the Gist? Understanding the Use of Public Gists on GitHub. @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
-   MSR 2015: 314-323
+   12th Working Conference on Mining Software Repositories (MSR 2015): 314-323
 
 8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
    The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
+
+7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
+   Evan Wilde, Daniel M. Germán. @@html:<br>@@
+   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
+
 
 * To be done
 
