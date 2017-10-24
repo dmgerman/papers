@@ -26,7 +26,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
   - [[#2009][2009]]
 - [[#by-topic][By topic]]
   - [[#intellectual-property][Intellectual Property]]
-  - [[#2009-1][2009]]
   - [[#provenance][Provenance]]
   - [[#git-and-github][Git and Github]]
 - [[#to-be-done][To be done]]
@@ -338,7 +337,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    ASE 2014: 731-742@@html:<br>@@
    [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]] 
 
-** 2009
+*** 2009
 
 1. *License integration patterns: Addressing license mismatches in component-based development* @@html:<br>@@
    Daniel M. Germán, Ahmed E. Hassan @@html:<br>@@
