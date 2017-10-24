@@ -232,6 +232,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 8. *The promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian @@html:<br>@@
    11th Working Conference on Mining Software Repositories (MSR 2014): 92-101 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=2597074][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2014/conference/2014_msr_perils-github/2014_msr_perils-github.pdf][Local copy]]
 
 9. *Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software* @@html:<br>@@
    Yuki Manabe, Daniel M. Germán, Katsuro Inoue:@@html:<br>@@
@@ -344,8 +345,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    International Conference in Software Engineering (ICSE) Research Track 2009: 188-198 @@html:<br>@@
    [[https://dl.acm.org/citation.cfm?id=1555035][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_icse_license-integration-patterns/10.1.1.491.3438.pdf][Local copy]]
 
-
-
 ** Provenance
 
 *** 2016
@@ -361,7 +360,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    MSR 2016: 339-350 @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:2016/conferences/2016_msr_software-ingredients/2016_msr_software-ingredients.pdf][Local copy]] 
-
 
 *** 2014
 
@@ -434,6 +432,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 8. *The promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian @@html:<br>@@
    11th Working Conference on Mining Software Repositories (MSR 2014): 92-101 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=2597074][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2014/conference/2014_msr_perils-github/2014_msr_perils-github.pdf][Local copy]]
 
 *** 2009
 
