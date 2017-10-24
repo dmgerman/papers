@@ -381,7 +381,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Evan Wilde, Daniel M. Germán. @@html:<br>@@
    Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-
+   [[http://ieeexplore.ieee.org/document/7780151/][Publisher's copy]] | 
 
 * To be done
 
