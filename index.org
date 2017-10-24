@@ -164,6 +164,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 7. *What Is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
    12th Working Conference on Mining Software Repositories (MSR 2015): 314-323
+   [[https://dl.acm.org/citation.cfm?id=2820556][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_gists/2015_msr_understanding-gists.pdf][Local copy]]
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
@@ -228,7 +229,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 8. *The promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian @@html:<br>@@
-   MSR 2014: 92-101 @@html:<br>@@
+   11th Working Conference on Mining Software Repositories (MSR 2014): 92-101 @@html:<br>@@
 
 9. *Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software* @@html:<br>@@
    Yuki Manabe, Daniel M. Germán, Katsuro Inoue:@@html:<br>@@
@@ -388,9 +389,10 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
-7. What Is the Gist? Understanding the Use of Public Gists on GitHub. @@html:<br>@@
+7. *What Is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
    12th Working Conference on Mining Software Repositories (MSR 2015): 314-323
+   [[https://dl.acm.org/citation.cfm?id=2820556][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_gists/2015_msr_understanding-gists.pdf][Local copy]]
 
 9. *A Dataset of the Activity of the Git Super-repository of Linux in 2012* @@html:<br>@@
    Daniel M. Germán, Bram Adams, Ahmed E. Hassan @@html:<br>@@
@@ -399,8 +401,9 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 *** 2014
 
-8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
-   The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
+8. *The promises and perils of mining GitHub* @@html:<br>@@
+   Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian @@html:<br>@@
+   11th Working Conference on Mining Software Repositories (MSR 2014): 92-101 @@html:<br>@@
 
 
 * To be done
