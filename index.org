@@ -152,7 +152,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICSME 2015: 31-40 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7332449/][Publishes copy]] [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy |]] [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
 
 6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
@@ -268,7 +268,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICSME 2015: 31-40 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7332449/][Publishes copy]] | [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy]] | [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
@@ -337,8 +337,42 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** Git and Github
 
+1. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
+   Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
 
+3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
+   Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
+   Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
 
+1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
+    Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
+    Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
+    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
+
+3. *An in-depth study of the promises and perils of mining GitHub* @@html:<br>@@
+   Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian.@@html:<br>@@
+   . Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-015-9393-5][Publishers copy]] | [[https://github.com/dmgerman/papers/raw/master/2016/journals/2016_emse_perils-github-extended/2016_emse_perils-github-extended.pdf][Local copy]]
+
+4. *Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub* @@html:<br>@@
+   Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán @@html:<br>@@
+   International Conference in Software Engineering (ICSE) Research Track 2015: 574-585 @@html:<br>@@
+
+6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
+   Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
+   ICPC 2015: 218-228@@html:<br>@@
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
+
+7. What Is the Gist? Understanding the Use of Public Gists on GitHub. @@html:<br>@@
+   Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
+   MSR 2015: 314-323
+
+8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
+   The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
 
 * To be done
 
