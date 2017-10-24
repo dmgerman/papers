@@ -22,6 +22,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
   - [[#2015][2015]]
   - [[#2014][2014]]
   - [[#2013][2013]]
+  - [[#2009][2009]]
 - [[#by-topic][By topic]]
   - [[#intellectual-property][Intellectual Property]]
   - [[#provenance][Provenance]]
@@ -243,8 +244,20 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 1. *Software Bertillonage - Determining the provenance of software development artifacts* @@html:<br>@@
    Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle@@html:<br>@@
-   Journal of Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
+   Journal of Empirical Software Engineering 18(6): 1195-1237 (2013) @@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
+
+** 2009
+
+1. *License integration patterns: Addressing license mismatches in component-based development* @@html:<br>@@
+   Daniel M. Germán, Ahmed E. Hassan @@html:<br>@@
+   International Conference in Software Engineering (ICSE) Research Track 2009: 188-198 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=1555035][Publisher's copy]] | 
+
+2. *The promises and perils of mining git* @@html:<br>@@
+   Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu  @@html:<br>@@
+   MSR 2009: 1-10 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=1591132][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]] 
 
 
 * By topic 
@@ -406,6 +419,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    11th Working Conference on Mining Software Repositories (MSR 2014): 92-101 @@html:<br>@@
 
 
+
 * To be done
 
 
@@ -470,14 +484,9 @@ Improving scans of black and white photographs by recovering the print maker's a
 Macro-level software evolution: a case study of a large software compilation. Journal of Empirical Software Engineering 14(3): 262-285 (2009)
 	[j9]		Daniel M. Germán, Ahmed E. Hassan, Gregorio Robles:
 Change impact graphs: Determining the impact of prior codechanges. Information & Software Technology 51(10): 1394-1408 (2009)
-	[c42]		Daniel M. Germán, Ahmed E. Hassan:
-License integration patterns: Addressing license mismatches in component-based development. International Conference in Software Engineering (ICSE) Research Track 2009: 188-198
 	[c41]		Abram Hindle, Daniel M. Germán, Michael W. Godfrey, Richard C. Holt:
 
 Automatic classication of large changes into maintenance categories. ICPC 2009: 30-39
-	[c40]		Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu:
-The promises and perils of mining git. MSR 2009: 1-10
-  | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]] 
   
 	[c39]		Daniel M. Germán, Massimiliano Di Penta, Yann-Gaël Guéhéneuc, Giuliano Antoniol:
 
