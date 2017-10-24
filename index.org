@@ -79,7 +79,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    IEEE Trans. Software Eng. 43(2): 185-204 (2017)@@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7498605/][Publisher's copy]] | [[file:./2017/journal/2017_tse_social-comm-channels/2017_tse_social-comm-channels.pdf][Local copy]]
 
-6. *Herding cats in a FOSS ecosystem: a tale of communication and coordination for release management* @@html:<br>@@hrml 
+6. *Herding cats in a FOSS ecosystem: a tale of communication and coordination for release management* @@html:<br>@@
    Germán Poo-Caamaño, Eric Knauss,LeifSinger, and Daniel M. German@@html:<br>@@
    Journal of Internet Services and Applications  8:12 (2017)@@html:<br>@@
    [[https://jisajournal.springeropen.com/articles/10.1186/s13174-017-0063-2][Publisher's copy]] | [[file:2017/journal/2017_jisa_hearding-cats/jisa-cats.pdf][Local copy]]
