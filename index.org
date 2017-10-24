@@ -22,9 +22,11 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
   - [[#2015][2015]]
   - [[#2014][2014]]
   - [[#2013][2013]]
+  - [[#2012][2012]]
   - [[#2009][2009]]
 - [[#by-topic][By topic]]
   - [[#intellectual-property][Intellectual Property]]
+  - [[#2009-1][2009]]
   - [[#provenance][Provenance]]
   - [[#git-and-github][Git and Github]]
 - [[#to-be-done][To be done]]
@@ -247,12 +249,19 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Journal of Empirical Software Engineering 18(6): 1195-1237 (2013) @@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
+** 2012
+
+1. *A Method for Open Source License Compliance of Java Applications* @@html:<br>@@
+    Daniel M. Germán, Massimiliano Di Penta @@html:<br>@@
+   IEEE Software 29(3): 58-63 (2012) @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/6178302/][Publisher's copy]] | 
+
 ** 2009
 
 1. *License integration patterns: Addressing license mismatches in component-based development* @@html:<br>@@
    Daniel M. Germán, Ahmed E. Hassan @@html:<br>@@
    International Conference in Software Engineering (ICSE) Research Track 2009: 188-198 @@html:<br>@@
-   [[https://dl.acm.org/citation.cfm?id=1555035][Publisher's copy]] | 
+   [[https://dl.acm.org/citation.cfm?id=1555035][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_icse_license-integration-patterns/10.1.1.491.3438.pdf][Local copy]]
 
 2. *The promises and perils of mining git* @@html:<br>@@
    Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu  @@html:<br>@@
@@ -328,6 +337,15 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel.@@html:<br>@@
    ASE 2014: 731-742@@html:<br>@@
    [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]] 
+
+** 2009
+
+1. *License integration patterns: Addressing license mismatches in component-based development* @@html:<br>@@
+   Daniel M. Germán, Ahmed E. Hassan @@html:<br>@@
+   International Conference in Software Engineering (ICSE) Research Track 2009: 188-198 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=1555035][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_icse_license-integration-patterns/10.1.1.491.3438.pdf][Local copy]]
+
+
 
 ** Provenance
 
@@ -418,6 +436,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian @@html:<br>@@
    11th Working Conference on Mining Software Repositories (MSR 2014): 92-101 @@html:<br>@@
 
+*** 2009
+
+2. *The promises and perils of mining git* @@html:<br>@@
+   Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu  @@html:<br>@@
+   MSR 2009: 1-10 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=1591132][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]] 
+
 
 
 * To be done
@@ -436,8 +461,6 @@ The future of continuous integration in GNOME. RELENG@ICSE 2013: 33-36
 	[c60]		Yujuan Jiang, Bram Adams, Dbaniel M. Germán:
 Will my patch make it? and how fast?: case study on the Linux kernel. MSR 2013: 101-110
 2012
-	[j13]		Daniel M. Germán, Massimiliano Di Penta:
-A Method for Open Source License Compliance of Java Applications. IEEE Software 29(3): 58-63 (2012)
 	[j12]		Peter C. Rigby, Brendan Cleary, Frédéric Painchaud, Margaret-Anne D. Storey, Daniel M. Germán:
 Contemporary Peer Review in Action: Lessons from Open Source Development. IEEE Software 29(6): 56-61 (2012)
 	[c59]		Earl T. Barr, Christian Bird, Peter C. Rigby, Abram Hindle, Daniel M. Germán, Premkumar T. Devanbu:
