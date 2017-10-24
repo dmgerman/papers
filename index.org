@@ -88,7 +88,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
-   OSS 2017: 69-79.@@html:<br>@@
+   OSS 2017: 69-79. @@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
 
@@ -131,7 +131,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
    Evan Wilde, Daniel M. Germán. @@html:<br>@@
-   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10
+   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10 @@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7780151/][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2016/conferences/2016_vissoft_linvis/2016_vissoft_linvis.pdf][Local copy]]
 
@@ -163,7 +163,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 7. *What Is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
-   12th Working Conference on Mining Software Repositories (MSR 2015): 314-323
+   12th Working Conference on Mining Software Repositories (MSR 2015): 314-323 @@html:<br>@@
    [[https://dl.acm.org/citation.cfm?id=2820556][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_gists/2015_msr_understanding-gists.pdf][Local copy]]
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
@@ -365,7 +365,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
    Evan Wilde, Daniel M. Germán. @@html:<br>@@
-   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10
+   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10 @@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7780151/][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2016/conferences/2016_vissoft_linvis/2016_vissoft_linvis.pdf][Local copy]]
 
@@ -391,7 +391,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 7. *What Is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
-   12th Working Conference on Mining Software Repositories (MSR 2015): 314-323
+   12th Working Conference on Mining Software Repositories (MSR 2015): 314-323 @@html:<br>@@
    [[https://dl.acm.org/citation.cfm?id=2820556][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_gists/2015_msr_understanding-gists.pdf][Local copy]]
 
 9. *A Dataset of the Activity of the Git Super-repository of Linux in 2012* @@html:<br>@@
