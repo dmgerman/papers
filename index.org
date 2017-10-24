@@ -137,7 +137,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** 2015
 
-1. Management of community contributions @@html:<br>@@
+1. *Management of community contributions* @@html:<br>@@
    Nicolas Bettenburg, Ahmed E. Hassan, Bram Adams, Daniel M. Germán:@@html:<br>@@
    Journal of Empirical Software Engineering 20(1): 252-289 (2015)@@html:<br>@@
 
@@ -148,11 +148,12 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 4. *Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán @@html:<br>@@
    International Conference in Software Engineering (ICSE) Research Track 2015: 574-585 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=2818825][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_icse_github/2015_icse_github_practices.pdf][Local copy]]
 
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICSME 2015: 31-40 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy |]] [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy]] | [[file:./2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
 
 6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
@@ -170,10 +171,10 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
 
-9. *A Dataset of the Activity of the Git Super-repository of Linux in 2012* 
-   Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
-   12th Working Conference on Mining Software Repositories (MSR 2015): 470-473
-   [[https://dl.acm.org/citation.cfm?id=2820518.2820590][Publisher's copy]]
+9. *A Dataset of the Activity of the Git Super-repository of Linux in 2012* @@html:<br>@@
+   Daniel M. Germán, Bram Adams, Ahmed E. Hassan @@html:<br>@@
+   12th Working Conference on Mining Software Repositories (MSR 2015): 470-473 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=2820518.2820590][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_data_linux_superrepo/2015_msr_data_linux_superrepo.pdf][Local copy]]
 
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
     Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño.@@html:<br>@@
@@ -340,29 +341,39 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** Git and Github
 
+*** 2017
+
 1. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
    Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
 
-3. *License usage and changes: a large-scale study on gitHub* @@html:<br>@@
-   Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
-   Journal of Empirical Software Engineering 22(3): 1537-1577 (2017)@@html:<br>@@
-   [[https://link.springer.com/article/10.1007/s10664-016-9438-4][Publisher's copy]] | [[file:./2017/journal/2017_emse_license-usage-github/2017_emse_license-usage-github.pdf][Local copy]]
+*** 2016
 
 1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
     Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
     Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
+7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
+   Evan Wilde, Daniel M. Germán. @@html:<br>@@
+   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10
+   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7780151/][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2016/conferences/2016_vissoft_linvis/2016_vissoft_linvis.pdf][Local copy]]
+
+*** 2016
+
 3. *An in-depth study of the promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian.@@html:<br>@@
    Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-015-9393-5][Publishers copy]] | [[https://github.com/dmgerman/papers/raw/master/2016/journals/2016_emse_perils-github-extended/2016_emse_perils-github-extended.pdf][Local copy]]
 
+*** 2015
+
 4. *Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán @@html:<br>@@
    International Conference in Software Engineering (ICSE) Research Track 2015: 574-585 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=2818825][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_icse_github/2015_icse_github_practices.pdf][Local copy]]
 
 6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
@@ -374,14 +385,16 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
    12th Working Conference on Mining Software Repositories (MSR 2015): 314-323
 
+9. *A Dataset of the Activity of the Git Super-repository of Linux in 2012* @@html:<br>@@
+   Daniel M. Germán, Bram Adams, Ahmed E. Hassan @@html:<br>@@
+   12th Working Conference on Mining Software Repositories (MSR 2015): 470-473 @@html:<br>@@
+   [[https://dl.acm.org/citation.cfm?id=2820518.2820590][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_data_linux_superrepo/2015_msr_data_linux_superrepo.pdf][Local copy]]
+
+*** 2014
+
 8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
    The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
 
-7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
-   Evan Wilde, Daniel M. Germán. @@html:<br>@@
-   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10
-   *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7780151/][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2016/conferences/2016_vissoft_linvis/2016_vissoft_linvis.pdf][Local copy]]
 
 * To be done
 
