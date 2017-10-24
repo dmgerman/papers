@@ -25,6 +25,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 - [[#by-topic][By topic]]
   - [[#intellectual-property][Intellectual Property]]
   - [[#provenance][Provenance]]
+  - [[#git-and-github][Git and Github]]
 - [[#to-be-done][To be done]]
 
 * Other sources 
@@ -104,39 +105,49 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
     Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:./2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
 
-2. Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán:
-   An empirical study of integration activities in distributions of open source software. Journal of Empirical Software Engineering 21(3): 960-1001 (2016)
+2. *An empirical study of integration activities in distributions of open source software* @@html:<br>@@
+   Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán. @@html:<br>@@
+   Journal of Empirical Software Engineering 21(3): 960-1001 (2016) @@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-015-9371-y][Publisher's copy]] | 
 	
-3. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian:
-   An in-depth study of the promises and perils of mining GitHub. Journal of Empirical Software Engineering 21(5): 2035-2071 (2016)
+3. *An in-depth study of the promises and perils of mining GitHub* @@html:<br>@@
+   Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian.@@html:<br>@@
+   . Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-015-9393-5][Publishers copy]] | [[https://github.com/dmgerman/papers/raw/master/2016/journals/2016_emse_perils-github-extended/2016_emse_perils-github-extended.pdf][Local copy]]
 
 4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
    Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue: MSR 2016: 339-350 @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:2016/conferences/2015_msr_software-ingredients/2015_msr_software-ingredients.pdf][Local copy]] 
 
-5. Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño:
-   How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists. MSR 2016: 441-451
+5. *How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists* @@html:<br>@@
+   Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño. @@html:<br>@@
+    MSR 2016: 441-451@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
 	
-6. Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán:@@html:<br>@@
+6. Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán@@html:<br>@@
    Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. @@html:<br>@@
    OSS 2016: 147-162
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
 
-7. Evan Wilde, Daniel M. Germán:
-   Merge-Tree: Visualizing the Integration of Commits into Linux. VISSOFT 2016: 1-10
+7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
+   Evan Wilde, Daniel M. Germán. @@html:<br>@@
+   Fourth IEEE Working Conference on Software Visualization (VISSOFT) 2016: 1-10
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
+   
 
 ** 2015
 
-1. Nicolas Bettenburg, Ahmed E. Hassan, Bram Adams, Daniel M. Germán:
-   Management of community contributions. Journal of Empirical Software Engineering 20(1): 252-289 (2015)
+1. Management of community contributions @@html:<br>@@
+   Nicolas Bettenburg, Ahmed E. Hassan, Bram Adams, Daniel M. Germán:@@html:<br>@@
+   Journal of Empirical Software Engineering 20(1): 252-289 (2015)@@html:<br>@@
 
-3. Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:
-   People Analytics in Software Development. GTTSE 2015: 124-153
+3. *People Analytics in Software Development* @@html:<br>@@
+   Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:@@html:<br>@@ 
+   GTTSE 2015: 124-153@@html:<br>@@
 
-4. Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán:
-   Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub. International Conference in Software Engineering (ICSE) Research Track 2015: 574-585
+4. *Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub* @@html:<br>@@
+   Eirini Kalliamvakou, Daniela E. Damian, Kelly Blincoe, Leif Singer, Daniel M. Germán @@html:<br>@@
+   International Conference in Software Engineering (ICSE) Research Track 2015: 574-585 @@html:<br>@@
 
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
@@ -149,8 +160,8 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
-7. Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán:
-   What Is the Gist? Understanding the Use of Public Gists on GitHub. @@html:<br>@@
+7. What Is the Gist? Understanding the Use of Public Gists on GitHub. @@html:<br>@@
+   Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
    MSR 2015: 314-323
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
@@ -324,6 +335,11 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
     Journal of Empirical Software Engineering 18(6): 1195-1237 (2013)@@html:<br>@@
     [[https://link.springer.com/article/10.1007/s10664-012-9199-7][Publisher's copy]] | [[file:./2013/journals/2013_emse-msr-special-issue_software_bertillonage/2013_emse-msr-special-issue_software_bertillonage.pdf][Local copy]]
 
+** Git and Github
+
+
+
+
 * To be done
 
 
@@ -391,10 +407,15 @@ Change impact graphs: Determining the impact of prior codechanges. Information &
 	[c42]		Daniel M. Germán, Ahmed E. Hassan:
 License integration patterns: Addressing license mismatches in component-based development. International Conference in Software Engineering (ICSE) Research Track 2009: 188-198
 	[c41]		Abram Hindle, Daniel M. Germán, Michael W. Godfrey, Richard C. Holt:
+
 Automatic classication of large changes into maintenance categories. ICPC 2009: 30-39
 	[c40]		Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu:
 The promises and perils of mining git. MSR 2009: 1-10
+  | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]] 
+  
 	[c39]		Daniel M. Germán, Massimiliano Di Penta, Yann-Gaël Guéhéneuc, Giuliano Antoniol:
+
+
 Code siblings: Technical and legal implications of copying code between applications. MSR 2009: 81-90
 	[c38]		Daniel M. Germán, Jesús M. González-Barahona:
 An Empirical Study of the Reuse of Software Licensed under the GNU General Public License. OSS 2009: 185-198
