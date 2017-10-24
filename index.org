@@ -112,7 +112,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 	
 3. *An in-depth study of the promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian.@@html:<br>@@
-   . Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
+   Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-015-9393-5][Publishers copy]] | [[https://github.com/dmgerman/papers/raw/master/2016/journals/2016_emse_perils-github-extended/2016_emse_perils-github-extended.pdf][Local copy]]
 
 4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
@@ -124,9 +124,9 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
     MSR 2016: 441-451@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
 	
-6. Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán@@html:<br>@@
-   Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem. @@html:<br>@@
-   OSS 2016: 147-162
+6. *Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem* @@html:<br>@@
+   Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán @@html:<br>@@
+   OSS 2016: 147-162@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
 
 7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
@@ -196,40 +196,47 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** 2014
 
-1. Tetsuya Kanda, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
-   Measuring Copying of Java Archives. ECEASST 63 (2014)@@html:<br>@@
+1. *Measuring Copying of Java Archives* @@html:<br>@@
+   Tetsuya Kanda, Daniel M. Germán, Takashi Ishio, Katsuro Inoue @@html:<br>@@
+   ECEASST 63 (2014)@@html:<br>@@
 
-2. Michael W. Godfrey, Daniel M. Germán:
-   On the evolution of Lehman's Laws. Journal of Software: Evolution and Process 26(7): 613-619 (2014)@@html:<br>@@
+2. *On the evolution of Lehman's Laws* @@html:<br>@@
+   Michael W. Godfrey, Daniel M. Germán @@html:<br>@@
+   Journal of Software: Evolution and Process 26(7): 613-619 (2014)@@html:<br>@@
 
-3. Chenlei Zhang, Abram Hindle, Daniel M. Germán:
-   The Impact of User Choice on Energy Consumption. IEEE Software 31(3): 69-75 (2014)@@html:<br>@@
+3. *The Impact of User Choice on Energy Consumption* @@html:<br>@@
+   Chenlei Zhang, Abram Hindle, Daniel M. Germán @@html:<br>@@
+   IEEE Software 31(3): 69-75 (2014)@@html:<br>@@
 
-4. Peter C. Rigby, Daniel M. Germán, Laura Cowen, Margaret-Anne D. Storey:
-   Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory. ACM Trans. Softw. Eng. Methodol. 23(4): 35:1-35:33 (2014)@@html:<br>@@
+4. *Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory* @@html:<br>@@
+   Peter C. Rigby, Daniel M. Germán, Laura Cowen, Margaret-Anne D. Storey @@html:<br>@@
+   ACM Trans. Softw. Eng. Methodol. 23(4): 35:1-35:33 (2014)@@html:<br>@@
 
 5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
    Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.@@html:<br>@@
    ESEM 2014: 51:1-51:10@@html:<br>@@
    [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
 
-6. Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán:
-   Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment. International Conference in Software Engineering (ICSE) NIER Track 2014: 448-451@@html:<br>@@
+6. *Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment* @@html:<br>@@
+   Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán @@html:<br>@@
+   International Conference in Software Engineering (ICSE) NIER Track 2014: 448-451@@html:<br>@@
 
 7. *Tracing software build processes to uncover license compliance inconsistencies* @@html:<br>@@
    Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel.@@html:<br>@@
    ASE 2014: 731-742@@html:<br>@@
    [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]] 
 
-8. Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian:
-   The promises and perils of mining GitHub. MSR 2014: 92-101@@html:<br>@@
+8. *The promises and perils of mining GitHub* @@html:<br>@@
+   Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian @@html:<br>@@
+   MSR 2014: 92-101 @@html:<br>@@
 
-9. Yuki Manabe, Daniel M. Germán, Katsuro Inoue:@@html:<br>@@
-   Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software. @@html:<br>@@
+9. *Analyzing the Relationship between the License of Packages and Their Files in Free and Open Source Software* @@html:<br>@@
+   Yuki Manabe, Daniel M. Germán, Katsuro Inoue:@@html:<br>@@
    OSS 2014: 51-60@@html:<br>@@
 
-10. Raula Gaikovina Kula, Coen De Roover, Daniel M. Germán, Takashi Ishio, Katsuro Inoue:
-   Visualizing the Evolution of Systems and Their Library Dependencies. VISSOFT 2014: 127-136@@html:<br>@@
+10. *Visualizing the Evolution of Systems and Their Library Dependencies*  @@html:<br>@@
+   Raula Gaikovina Kula, Coen De Roover, Daniel M. Germán, Takashi Ishio, Katsuro Inoue @@html:<br>@@
+   VISSOFT 2014: 127-136@@html:<br>@@
 
 ** 2013
 
