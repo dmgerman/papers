@@ -41,6 +41,12 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** To appear
 
+1. TSE managers paper
+
+1. ICSME tool paper
+
+1. ICSME GSOC paper
+
 1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
    Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@html:<br>@@
    Journal of Empirical Software Engineering. DOI  10.1007/s10664-017-9536-y@@html:<br>@@
@@ -98,7 +104,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Ali Ouni, Katsuro Inoue @@html:<br>@@
    International Conference on Software Analysis, Evolution, and Reengineering (SANER) 2017, Early Research Achievements (ERA) Track Track 407-411 @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7884643/][Publisher's copy]] | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]]
-
 
 ** 2016
 
@@ -163,7 +168,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
-7. *What Is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
+7. *What is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
    12th Working Conference on Mining Software Repositories (MSR 2015): 314-323 @@html:<br>@@
    [[https://dl.acm.org/citation.cfm?id=2820556][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_gists/2015_msr_understanding-gists.pdf][Local copy]]
@@ -417,7 +422,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:./2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
 
-7. *What Is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
+7. *What is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
    12th Working Conference on Mining Software Repositories (MSR 2015): 314-323 @@html:<br>@@
    [[https://dl.acm.org/citation.cfm?id=2820556][Publisher's copy]] | [[https://github.com/dmgerman/papers/blob/master/2015/conferences/2015_msr_gists/2015_msr_understanding-gists.pdf][Local copy]]
