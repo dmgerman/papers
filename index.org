@@ -41,11 +41,10 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** To appear
 
-1. TSE managers paper
-
-1. ICSME tool paper
-
-1. ICSME GSOC paper
+1. *What Makes a Great Manager of Software Engineers?* @@html:<br>@@
+   Eirini Kalliamvakou, Christian Bird, Thomas Zimmermann, Andrew Begel, Robert DeLine and Daniel M. German @@html:<br>@@
+   Transactions of Software Engineering. To Appear.@@html:<br>@@
+   | [[https://github.com/dmgerman/papers/raw/master/to-appear/tse-seng_manager/tse-seng-manager.pdf][Local copy]] 
 
 1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
    Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@html:<br>@@
