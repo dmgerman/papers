@@ -17,6 +17,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 - [[#other-sources][Other sources]]
 - [[#by-year][By year]]
   - [[#to-appear][To appear]]
+  - [[#2018][2018]]
   - [[#2017][2017]]
   - [[#2016][2016]]
   - [[#2015][2015]]
@@ -41,15 +42,35 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** To appear
 
+1. *Was my contribution fairly reviewed?'' A framework to study perception of fairness in Modern Code Reviews* @@html:<br>@@
+   Daniel M. German, Gregorio Robles, Germán Poo-Caamaño, Xin Yang, Hajimu Iida, Katsuro Inoue. @@html:<br>@@
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
+
+1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
+   Christopher Vendome, Daniel German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
+   
+7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
+   Evan Wilde, Daniel M. Germán. @@html:<br>@@
+   Journal of Software: Evolution and Process (to appear) @@html:<br>@@
+
 1. *What Makes a Great Manager of Software Engineers?* @@html:<br>@@
    Eirini Kalliamvakou, Christian Bird, Thomas Zimmermann, Andrew Begel, Robert DeLine and Daniel M. German @@html:<br>@@
    Transactions of Software Engineering. To Appear.@@html:<br>@@
-   | [[https://github.com/dmgerman/papers/raw/master/to-appear/tse-seng_manager/tse-seng-manager.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/abstract/document/8094304/][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/tse-seng_manager/tse-seng-manager.pdf][Local copy]] 
 
 1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
    Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@html:<br>@@
    Journal of Empirical Software Engineering. DOI  10.1007/s10664-017-9536-y@@html:<br>@@
    [[https://link.springer.com/article/10.1007%252Fs10664-017-9536-y][Publisher's copy]] | [[file:to-appear/emse-msr-special-issue_r-community/r-know-journal.pdf][Local copy]]
+
+
+** 2018
+
+1. *An empirical study on the impact of refactoring activities on evolving client-used APIs* @@html:<br>@@
+   Raula Gaikovina Kula, Ali Ouni, Daniel M.German, Katsuro Inoue @@html<br>@@
+   Journal of Information and Software Technology, Volume 93, January 2018, Pages 186-199 @@html:<br>@@
+   [[http://www.sciencedirect.com/science/article/pii/S0950584917304780][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/ist_impact-refactorings/impactRefactoring.pdf][Local copy]]
 
 ** 2017
 
