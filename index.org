@@ -47,7 +47,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
 
 1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
-   Christopher Vendome, Daniel German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
+   Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
    International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
    
 7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
@@ -68,7 +68,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 ** 2018
 
 1. *An empirical study on the impact of refactoring activities on evolving client-used APIs* @@html:<br>@@
-   Raula Gaikovina Kula, Ali Ouni, Daniel M.German, Katsuro Inoue @@html<br>@@
+   Raula Gaikovina Kula, Ali Ouni, Daniel M.German, Katsuro Inoue @@html:<br>@@
    Journal of Information and Software Technology, Volume 93, January 2018, Pages 186-199 @@html:<br>@@
    [[http://www.sciencedirect.com/science/article/pii/S0950584917304780][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/ist_impact-refactorings/impactRefactoring.pdf][Local copy]]
 
