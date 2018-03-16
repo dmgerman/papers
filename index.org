@@ -51,6 +51,11 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
    International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
    
+1. *A Generalized Model for Visualizing Library Popularity, Adoption, and Diffusion within a Software Ecosystem* @@html:<br>@@
+   Raula Gaikovina Kula, Coen De Roover†, Daniel M. German, Takashi Ishio and Katsuro Inoue.@@html:<br>@@
+   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'18).  Acceptance rate: 27% (39 out of 146 full papers). To appear.
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/saner-libraries/saner18-libraries.pdf][Local copy]]
+
 7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
    Evan Wilde, Daniel M. Germán. @@html:<br>@@
    Journal of Software: Evolution and Process (to appear) @@html:<br>@@
