@@ -67,27 +67,32 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 1. *Do developers update their library dependencies? - An empirical study on the impact of security advisories on library migration* @@html:<br>@@
    aula Gaikovina Kula, Daniel M. German, Ali Ouni, Takashi Ishio and Katsuro Inoue. @@html:<br>@@
-   Journal of Empirical Software Engineering 23(1): 384-417 (2018), DOI 10.1007/s10664-017-9521-5 @@html:<br>@@
+   Journal of Empirical Software Engineering 23(1): 384-417 (2018), @@html:<br>@@
+   DOI 10.1007/s10664-017-9521-5 @@html:<br>@@
    [[https://link.springer.com/article/10.1007%252Fs10664-017-9521-5][Publisher's copy]] | 
 
 1. *An empirical study on the impact of refactoring activities on evolving client-used APIs* @@html:<br>@@
    Raula Gaikovina Kula, Ali Ouni, Daniel M.German, Katsuro Inoue @@html:<br>@@
    Journal of Information and Software Technology, Volume 93, January 2018, Pages 186-199 @@html:<br>@@
+   DOI 10.1016/j.infsof.2017.09.007 @@html:<br>@@
    [[http://www.sciencedirect.com/science/article/pii/S0950584917304780][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/ist_impact-refactorings/impactRefactoring.pdf][Local copy]]
 
 1. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
    Evan Wilde, Daniel M. Germán. @@html:<br>@@
    Journal of Software: Evolution and Process, February 2018, Volume 30, Issue 2, pages e1936 @@html:<br>@@
+   DOI 10.1002/smr.1936 @@html:<br>@@
    [[https://onlinelibrary.wiley.com/doi/full/10.1002/smr.1936][Publisher's copy]] | 
 
 1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
    Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@html:<br>@@
-   Journal of Empirical Software Engineering. April 2018, Volume 23, Issue 2, pp 953–986, DOI  10.1007/s10664-017-9536-y@@html:<br>@@
+   Journal of Empirical Software Engineering. April 2018, Volume 23, Issue 2, pp 953–986 @@html:<br>@@
+   DOI  10.1007/s10664-017-9536-y @@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-017-9536-y][Publisher's copy]] | [[file:to-appear/emse-msr-special-issue_r-community/r-know-journal.pdf][Local copy]]
 
 1. *A Generalized Model for Visualizing Library Popularity, Adoption, and Diffusion within a Software Ecosystem* @@html:<br>@@
    Raula Gaikovina Kula, Coen De Roover†, Daniel M. German, Takashi Ishio and Katsuro Inoue.@@html:<br>@@
-   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'18).  Acceptance rate: 27% (39 out of 146 full papers). @@html:<br>@@
+   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'18).  @@html:<br>@@
+   Acceptance rate: 27% (39 out of 146 full papers). @@html:<br>@@
    [[https://github.com/dmgerman/papers/raw/master/2018/conferences/saner-libraries/saner18-libraries.pdf][Local copy]]
 
 ** 2017
