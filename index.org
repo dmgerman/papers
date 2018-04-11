@@ -42,43 +42,60 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** To appear
 
-1. *Was my contribution fairly reviewed?'' A framework to study perception of fairness in Modern Code Reviews* @@html:<br>@@
-   Daniel M. German, Gregorio Robles, Germán Poo-Caamaño, Xin Yang, Hajimu Iida, Katsuro Inoue. @@html:<br>@@
-   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
-   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/icse2018-fairness.pdf][Local copy]]
-
-1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
-   Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
-   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
-   
-1. *A Generalized Model for Visualizing Library Popularity, Adoption, and Diffusion within a Software Ecosystem* @@html:<br>@@
-   Raula Gaikovina Kula, Coen De Roover†, Daniel M. German, Takashi Ishio and Katsuro Inoue.@@html:<br>@@
-   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'18).  Acceptance rate: 27% (39 out of 146 full papers). To appear.
-   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/saner-libraries/saner18-libraries.pdf][Local copy]]
-
-7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
-   Evan Wilde, Daniel M. Germán. @@html:<br>@@
-   Journal of Software: Evolution and Process (to appear) @@html:<br>@@
-
 1. *What Makes a Great Manager of Software Engineers?* @@html:<br>@@
    Eirini Kalliamvakou, Christian Bird, Thomas Zimmermann, Andrew Begel, Robert DeLine and Daniel M. German @@html:<br>@@
    Transactions of Software Engineering. To Appear.@@html:<br>@@
    [[http://ieeexplore.ieee.org/abstract/document/8094304/][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/tse-seng_manager/tse-seng-manager.pdf][Local copy]] 
 
-1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
-   Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@html:<br>@@
-   Journal of Empirical Software Engineering. DOI  10.1007/s10664-017-9536-y@@html:<br>@@
-   [[https://link.springer.com/article/10.1007/s10664-017-9536-y][Publisher's copy]] | [[file:to-appear/emse-msr-special-issue_r-community/r-know-journal.pdf][Local copy]]
+1. *Was my contribution fairly reviewed?'' A framework to study perception of fairness in Modern Code Reviews* @@html:<br>@@
+   Daniel M. German, Gregorio Robles, Germán Poo-Caamaño, Xin Yang, Hajimu Iida, Katsuro Inoue. @@html:<br>@@
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_fairness.pdf][Local copy]]
 
+1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
+   Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_license-bugs.pdf][Local copy]]
+
+1. *Understanding the Usage, Impact, and Adoption of Non-OSI Approved Licenses* @@html:<br>@@
+   Romulo Meloca, Gustavo Pinto, Leonardo Baiser, Marco Mattos, Igor Wiese, Ivanilton Polato and Daniel M German @@html:<br>@@
+   International Working Conference in Mining Software Repositories (MSR) 2018 @@html:<br>@@
+   (to appear). Acceptance rate 33\% (41 out of 113 full research papers); @@html:<br>@@
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/msr/2018_msr_non-osi-lics.pdf][Local copy]]
 
 ** 2018
+
+1. *Do developers update their library dependencies? - An empirical study on the impact of security advisories on library migration* @@html:<br>@@
+   aula Gaikovina Kula, Daniel M. German, Ali Ouni, Takashi Ishio and Katsuro Inoue. @@html:<br>@@
+   Journal of Empirical Software Engineering 23(1): 384-417 (2018), DOI 10.1007/s10664-017-9521-5 @@html:<br>@@
+   [[https://link.springer.com/article/10.1007%252Fs10664-017-9521-5][Publisher's copy]] | 
 
 1. *An empirical study on the impact of refactoring activities on evolving client-used APIs* @@html:<br>@@
    Raula Gaikovina Kula, Ali Ouni, Daniel M.German, Katsuro Inoue @@html:<br>@@
    Journal of Information and Software Technology, Volume 93, January 2018, Pages 186-199 @@html:<br>@@
    [[http://www.sciencedirect.com/science/article/pii/S0950584917304780][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/ist_impact-refactorings/impactRefactoring.pdf][Local copy]]
 
+1. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
+   Evan Wilde, Daniel M. Germán. @@html:<br>@@
+   Journal of Software: Evolution and Process, February 2018, Volume 30, Issue 2, pages e1936 @@html:<br>@@
+   [[https://onlinelibrary.wiley.com/doi/full/10.1002/smr.1936][Publisher's copy]] | 
+
+1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
+   Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@html:<br>@@
+   Journal of Empirical Software Engineering. April 2018, Volume 23, Issue 2, pp 953–986, DOI  10.1007/s10664-017-9536-y@@html:<br>@@
+   [[https://link.springer.com/article/10.1007/s10664-017-9536-y][Publisher's copy]] | [[file:to-appear/emse-msr-special-issue_r-community/r-know-journal.pdf][Local copy]]
+
+1. *A Generalized Model for Visualizing Library Popularity, Adoption, and Diffusion within a Software Ecosystem* @@html:<br>@@
+   Raula Gaikovina Kula, Coen De Roover†, Daniel M. German, Takashi Ishio and Katsuro Inoue.@@html:<br>@@
+   IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'18).  Acceptance rate: 27% (39 out of 146 full papers). @@html:<br>@@
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/saner-libraries/saner18-libraries.pdf][Local copy]]
+
 ** 2017
+
+5. *How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development* @@html:<br>@@
+   Margaret-Anne D. Storey, Alexey Zagalsky, Fernando Marques Figueira Filho, Leif Singer, Daniel M. Germán @@html:<br>@@
+   IEEE Trans. Software Eng. 43(2): 185-204 (2017)@@html:<br>@@
+   [[http://ieeexplore.ieee.org/document/7498605/][Publisher's copy]] | [[file:./2017/journal/2017_tse_social-comm-channels/2017_tse_social-comm-channels.pdf][Local copy]]
 
 1. *An empirical study of unspecified dependencies in make-based build systems* @@html:<br>@@
    Cor-Paul Bezemer, Shane McIntosh, Bram Adams, Daniel M. German, and Ahmed E. Hassan.@@html:<br>@@
@@ -105,11 +122,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Journal of Information & Software Technology 83: 55-75 (2017)@@html:<br>@@
    [[http://www.sciencedirect.com/science/article/pii/S0950584916303652][Publisher's copy]] | [[file:./2017/journal/2017_ist_search-based-lib-recomm/2017_ist_search-based-lib-recommn.pdf][Local copy]]
 
-5. *How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development* @@html:<br>@@
-   Margaret-Anne D. Storey, Alexey Zagalsky, Fernando Marques Figueira Filho, Leif Singer, Daniel M. Germán @@html:<br>@@
-   IEEE Trans. Software Eng. 43(2): 185-204 (2017)@@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7498605/][Publisher's copy]] | [[file:./2017/journal/2017_tse_social-comm-channels/2017_tse_social-comm-channels.pdf][Local copy]]
-
 6. *Herding cats in a FOSS ecosystem: a tale of communication and coordination for release management* @@html:<br>@@
    Germán Poo-Caamaño, Eric Knauss,LeifSinger, and Daniel M. German@@html:<br>@@
    Journal of Internet Services and Applications  8:12 (2017)@@html:<br>@@
@@ -131,6 +143,19 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    International Conference on Software Analysis, Evolution, and Reengineering (SANER) 2017, Early Research Achievements (ERA) Track Track 407-411 @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7884643/][Publisher's copy]] | [[file:./2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]]
 
+10. *Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces* @@html:<br>@@
+   Huihui Nora Huang, Eric Verbeek, Daniel M. Germán, Margaret-Anne D. Storey and Martin Salois @@html:<br>@@
+   International Conference in Software Maintenance and Evolution (ICSME 2017), Tool Demonstration Track. Sept 2017. pages 623-627@@html:<br>@@
+   DOI 10.1109/ICSME.2017.23 @@html:<br>@@
+   [[https://ieeexplore.ieee.org/document/8094468/][Publisher's copy]] | 
+
+11. *How Long and How Much: What to Expect from Summer of Code Participants?* ICSME 2017: 69-79
+   Jefferson De Oliveira Silva, Igor Scaliante Wiese, Daniel M. Germán, Igor Fabio Steinmacher, Marco Aurélio Gerosa:
+   International Conference in Software Maintenance and Evolution (ICSME 2017), Sept 2017. pages 69-79 @@html:<br>@@
+   Acceptance rate 27.8% (42 out of 151). DOI 10.1109/ICSME.2017.81 @@html:<br>@@
+   DOI 10.1109/ICSME.2017.81 @@html:<br>@@
+   [[https://ieeexplore.ieee.org/document/8094410/][Publisher's copy]] | 
+
 ** 2016
 
 1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
@@ -149,7 +174,8 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    [[https://link.springer.com/article/10.1007/s10664-015-9393-5][Publishers copy]] | [[https://github.com/dmgerman/papers/raw/master/2016/journals/2016_emse_perils-github-extended/2016_emse_perils-github-extended.pdf][Local copy]]
 
 4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
-   Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue: MSR 2016: 339-350 @@html:<br>@@
+   Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.
+   International Working Conference in Mining Software Repositories (MSR) 2016: 339-350 @@html:<br>@@
    [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:2016/conferences/2015_msr_software-ingredients/2015_msr_software-ingredients.pdf][Local copy]] 
 
 5. *How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists* @@html:<br>@@
