@@ -47,7 +47,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Transactions of Software Engineering. To Appear.@@html:<br>@@
    [[http://ieeexplore.ieee.org/abstract/document/8094304/][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/tse-seng_manager/tse-seng-manager.pdf][Local copy]] 
 
-1. *Was my contribution fairly reviewed?'' A framework to study perception of fairness in Modern Code Reviews* @@html:<br>@@
+1. *"Was my contribution fairly reviewed?'' A framework to study the perception of fairness in Modern Code Reviews* @@html:<br>@@
    Daniel M. German, Gregorio Robles, Germán Poo-Caamaño, Xin Yang, Hajimu Iida, Katsuro Inoue. @@html:<br>@@
    International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). To appear.
    [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_fairness.pdf][Local copy]]
