@@ -50,9 +50,18 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** 2018
 
+1. *Was my contribution fairly reviewed? A framework to study the perception of fairness in Modern Code Reviews* @@html:<br>@@
+   Daniel M. German, Gregorio Robles, Germán Poo-Caamaño, Xin Yang, Hajimu Iida, Katsuro Inoue. @@html:<br>@@
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers).
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_fairness.pdf][Local copy]]
+
+1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
+   Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). 
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_license-bugs.pdf][Local copy]]
 
 1. *Do developers update their library dependencies? - An empirical study on the impact of security advisories on library migration* @@html:<br>@@
-   aula Gaikovina Kula, Daniel M. German, Ali Ouni, Takashi Ishio and Katsuro Inoue. @@html:<br>@@
+   Raula Gaikovina Kula, Daniel M. German, Ali Ouni, Takashi Ishio and Katsuro Inoue. @@html:<br>@@
    Journal of Empirical Software Engineering 23(1): 384-417 (2018), @@html:<br>@@
    DOI 10.1007/s10664-017-9521-5 @@html:<br>@@
    [[https://link.springer.com/article/10.1007%252Fs10664-017-9521-5][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2018/journals/ese_developers_update/developers_update.pdf][Local copy]]
@@ -81,15 +90,6 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Acceptance rate: 27% (39 out of 146 full papers). @@html:<br>@@
    [[https://github.com/dmgerman/papers/raw/master/2018/conferences/saner-libraries/saner18-libraries.pdf][Local copy]]
 
-1. *"Was my contribution fairly reviewed?'' A framework to study the perception of fairness in Modern Code Reviews* @@html:<br>@@
-   Daniel M. German, Gregorio Robles, Germán Poo-Caamaño, Xin Yang, Hajimu Iida, Katsuro Inoue. @@html:<br>@@
-   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers).
-   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_fairness.pdf][Local copy]]
-
-1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
-   Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
-   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). 
-   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_license-bugs.pdf][Local copy]]
 
 1. *Understanding the Usage, Impact, and Adoption of Non-OSI Approved Licenses* @@html:<br>@@
    Romulo Meloca, Gustavo Pinto, Leonardo Baiser, Marco Mattos, Igor Wiese, Ivanilton Polato and Daniel M German @@html:<br>@@
@@ -337,6 +337,19 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 * By topic 
 
 ** Intellectual Property
+
+*** 2018
+
+1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
+   Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). 
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_license-bugs.pdf][Local copy]]
+
+1. *Understanding the Usage, Impact, and Adoption of Non-OSI Approved Licenses* @@html:<br>@@
+   Romulo Meloca, Gustavo Pinto, Leonardo Baiser, Marco Mattos, Igor Wiese, Ivanilton Polato and Daniel M German @@html:<br>@@
+   International Working Conference in Mining Software Repositories (MSR) 2018 @@html:<br>@@
+   (to appear). Acceptance rate 33\% (41 out of 113 full research papers); @@html:<br>@@
+   [[https://github.com/dmgerman/papers/raw/master/2018/conferences/msr/2018_msr_non-osi-lics.pdf][Local copy]]
 
 *** 2017
 
