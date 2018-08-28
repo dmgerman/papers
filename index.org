@@ -43,7 +43,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** Under review
 
-1. *cregit : Token-level Blame Information in git Version Control Repositories*@@html:<br>@@
+1. *cregit : Token-level Blame Information in git Version Control Repositories* @@html:<br>@@
    Daniel M. German, Bram Adams and Kate Stewart@@html:<br>@@
    Under review.@@html:<br>@@
    [[file:under-review/cregit.pdf][Local Copy]]
