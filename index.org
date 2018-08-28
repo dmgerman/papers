@@ -16,6 +16,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 ** Table of contents                                                    :TOC:
 - [[#other-sources][Other sources]]
 - [[#by-year][By year]]
+  - [[#under-review][Under review]]
   - [[#to-appear][To appear]]
   - [[#2018][2018]]
   - [[#2017][2017]]
@@ -39,6 +40,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 
 * By year
+
+** Under review
+
+1. *cregit : Token-level Blame Information in git Version Control Repositories*@@html:<br>@@
+   Daniel M. German, Bram Adams and Kate Stewart@@html:<br>@@
+   Under review.@@html:<br>@@
+   [[file:under-review/cregit.pdf][Local Copy]]
 
 ** To appear
 
