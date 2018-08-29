@@ -55,6 +55,11 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Transactions of Software Engineering. To Appear.@@html:<br>@@
    [[http://ieeexplore.ieee.org/abstract/document/8094304/][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/tse-seng_manager/tse-seng-manager.pdf][Local copy]] 
 
+1. *Open Source Ecosystems and their need for a legal framework* @@html:<br>@@
+   A book chapter @@html:<br>@@
+   Daniel M. German @@html:<br>@@
+   [[https://github.com/dmgerman/papers/raw/master/to-appear/ecoLicense.pdf][Local copy]]
+
 
 ** 2018
 
