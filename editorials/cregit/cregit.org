@@ -116,8 +116,9 @@ regarding this commit. We are working to match more and more commits.
 ** cregit: where to get it
 
 [[http://github.com/cregit/cregit][cregit]] is open source. Its address is [[https://github.com/cregit/cregit]]
-It is capable of processing C, C++, Java, go. We can probably add support for perl and python fairly easily.
-Its input is a git repository, and its output is another git repository that tracks the source code by token (see paper for details).
+It is capable of processing C, C++, Java, and go. We can probably add support for perl and python fairly easily.
+All we need to support a new language is a tokenizer.
+cregit's input is a git repository, and its output is another git repository that tracks the source code by token (see paper for details).
 From this repository we construct the blame views shown above. If you are interested to have your repository process through cregit,
 email me.
 
