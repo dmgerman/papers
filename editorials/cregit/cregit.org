@@ -14,7 +14,7 @@
 
 ** Who wrote this code? Why? What changes lead to this function's current implementation?
 
-[[cregit.png]] These are typical questions that developers (and sometimes lawyers) ask during their work.
+These are typical questions that developers (and sometimes lawyers) ask during their work.
 Most software development projects use version control software (such as git or subversion) to
 track changes and use the "blame" feature of these systems to answer these questions.
 
@@ -52,7 +52,7 @@ were the replacement of int with long three places, and that B made no changes t
 
 ** cregit: improving blame of source code
 
-We created cregit to do exactly this. The goal of cregit is to provide token-level blame for a software system whose
+[[cregit.png]] We created cregit to do exactly this. The goal of cregit is to provide token-level blame for a software system whose
 history has been recorded using git. The details of cregit's implementation can be found in this [[https://github.com/dmgerman/papers/raw/master/under-review/cregit.pdf][Working Paper]] (currently under review).
 We have empirically evaluated cregit in several mature software systems. In our experiments we found that blame-per-line tends to be accurate
 between 70 and 80 of the time (it highly depends on how much the code has been modified, the more modifications to existing code, the less likely that
