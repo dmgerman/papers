@@ -14,7 +14,7 @@
 
 ** Who wrote this code? Why? What changes lead to this function's current implementation?
 
-These are typical questions that developers (and sometimes lawyers) ask during their work.
+[[cregit.png]] These are typical questions that developers (and sometimes lawyers) ask during their work.
 Most software development projects use version control software (such as git or subversion) to
 track changes and use the "blame" feature of these systems to answer these questions.
 
