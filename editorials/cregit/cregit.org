@@ -74,7 +74,7 @@ Below is an example of the blame-per-token views of Linux 4.19. Specifically, th
 
 
 The top part gives us an overview of who the authors of the file are. The first 50 authors are individually coloured.
-The source code is then colours according to the person who last added the token. The right hand side of the view shows an overview of the
+The source code is coloured according to the person who last added the token. The right hand side of the view shows an overview of the
 "ownership" of the source code.
 
 While hovering over the source code, one will see a box displaying information about how that token got into the source code: the commit id,
@@ -83,19 +83,29 @@ email thread that corresponds to the code review of the commit that inserted tha
 
 [[./cregitView2.png]]
 
-The views are highly interactive. For example, one can select to highlight a commit (top middle XXX box). In this case, all the code is
-grayed, except for the tokens that were added in by commit, as shown below.
-
-One can also click on a author's name, and only her code will be highlighted. For example, in the image below I have selected to highlight Eric Paris' contributions.
+The views are highly interactive. For example, one can select to highlight a commit (top middle combo box). In this case, all the code is
+grayed, except for the tokens that were added  by that commit, as shown below.
 
 [[./cregitView3.png]]
 
-Cregit is also capable of highlighting the age of the code. The sliding bar at the top right allows to narrow the period of interest.
-Below I have selected to show changes during the last two years (note that the file was last modified in July 17, 2018.
+One can also click on a author's name, and only her code will be highlighted. For example, in the image below I have selected to highlight Eric Paris' contributions.
 
 [[./cregitView4.png]]
 
-These features can be easily combined. You can select the age of the code by a specific author.
+
+cregit is also capable of highlighting the age of the code. The sliding bar at the top right allows to narrow the period of interest.
+Below I have selected to show changes during the last two years (note that the file was last modified in July 17, 2018.
+
+[[./cregitView5.png]]
+
+It is also possible to focus on a specific function, which can be selected with the /Functions/ combo box at the top
+of the source code. In the example below I have selected the function audit_set_failure. The rest of the code is
+has been hidden.
+
+[[./cregitView6.png]]
+
+These features can be easily combined. You can select the age of the code by a specific author. And narrow it 
+to a given function!
 
 ** cregit views: improving the linkage  of email code reviews
 
