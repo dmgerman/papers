@@ -1,0 +1,117 @@
+#+STARTUP: showall
+#+STARTUP: lognotestate
+#+TAGS: research(r) uvic(u) today(y) todo(t) cooking(c)
+#+SEQ_TODO: TODO(t) STARTED(s) DEFERRED(r) CANCELLED(c) | WAITING(w) DELEGATED(d) APPT(a) DONE(d) 
+#+DRAWERS: HIDDEN STATE
+#+ARCHIVE: %s_done::
+#+TITLE: cregit: Token-level blame information for the Linux Kernel
+#+CATEGORY: 
+#+PROPERTY: header-args:sql             :engine postgresql  :exports both :cmdline csc370
+#+PROPERTY: header-args:sqlite          :db /path/to/db  :colnames yes
+#+PROPERTY: header-args:C++             :results output :flags -std=c++14 -Wall --pedantic -Werror
+#+PROPERTY: header-args:R               :results output  :colnames yes
+#+OPTIONS: ^:nil
+
+** Who wrote this code? What changes lead to this function's current implementation?
+
+These are typical questions that developers (and sometimes layers) ask during their work.
+Most software development projects use version control software (such as git or subversion) to
+track changes and use the "blame" feature of these systems to answer these questions.
+
+Unfortunately version control systems are only capable of tracking full lines of code. 
+Imagine the following scenario: A simple file is created by developer A, later Developer B changes it, and finally, Developer C.
+The following figure depics the contents of the files after each modification. The source code has been coloured according to
+the developer who introduced it (blue for Developer A, red for Developer C, note that Developer B only changed whitespace 
+--including merging some lines). 
+
+[[./example.png]]
+
+
+** blame tracks lines not tokens
+
+If we were to use git to track these changes, and used git-blame with default parameters, its output will show that
+Developer B and C are mostly responsible for the contents of the file.
+
+However, if were to instruct blame to ignore changes to whitespace, the results would be:
+
+[[./blame.png]]
+
+In general, one would expect to always ask blame to ignore whitespace. However, sometimes this is not possible (such as the
+"blame" view of github which is computed without ignoring whitespace).
+
+Note that, even if we run blame with the ignore-whitespace option, the "blame" is incorrect. First, lines merged or
+split are not addressed properly (the ignore-whitespace option does not ignore them). Second, lines that were mostly
+authored by Developer A are now assigned to Developer B because she was the last one to modify them.
+
+If we considered the token as the indivisible unit of source code (hence, a token cannot be modified, it can only be removed or inserted)
+then what we really want is to know who is responsible for introducing each token to the source code base. A blame-per-token for the
+file in our example would look like this. Note how it correctly shows that the only changes made by C to the source code
+were the replacement of int with long three places.
+
+[[./blameToken.png]]
+
+
+** cregit: improving blame of source code
+
+We created cregit to do exactly this. The goal of cregit is to provide token-level blame for a software system whose
+history has been recorded using git. The details of cregit's implementation can be found in this Working Paper (currently under review).
+We have empirically evaluated cregit in several mature software systems. In our experiments we found that blame-per-line tends to be accurate
+between 70 and 80 of the time (it highly depends on how much the code has been modified, the more modifications to existing code, the less likely that
+blame-per-line will be accurate. Cregit is able to increase this accuracy to 95% (please see the paper above for the details).
+
+For the last two years we have been running cregit on the source code of the Linux Kernel. The results can be found at: [[https://cregit.linuxsources.org/code/4.19/]]
+
+Blame-per-line is easy to implement, just put the blame information to the side,
+however, blame-per-token is significantly more complex, as its tokens might have different authors and/or commits responsible for them.
+We are currently rolling out an improved view of blame-per-token which coincides with release 4.19 of Linux (versions before use an old
+view and most of the information here does not apply). 
+
+** cregit views: inspecting who changed what/when
+
+Below is an example of the blame-per-token views of Linux 4.19. Specifically, the file [[https://cregit.linuxsources.org/code/4.19/kernel/audit.c.html][audit.c.html]]. 
+
+
+[[./cregitView.png]]
+
+
+The top part gives us an overview of who the authors of the file are. The first 50 authors are individually coloured.
+The source code is then colours according to the person who last added the token. The right hand side of the view shows an overview of the
+"ownership" of the source code.
+
+While hovering over the source code, one will see a box displaying information about how that token got into the source code: the commit id,
+its author, and its commit timestamp and summary. If one is to click on the token, this information is enhanced with a link to the
+email thread that corresponds to the code review of the commit that inserted that token, as shown below:
+
+[[./cregitView2.png]]
+
+The views are highly interactive. For example, one can select to highlight a commit (top middle XXX box). In this case, all the code is
+grayed, except for the tokens that were added in by commit, as shown below.
+
+One can also click on a author's name, and only her code will be highlighted. For example, in the image below I have selected to highlight Eric Paris' contributions.
+
+[[./cregitView3.png]]
+
+Cregit is also capable of highlighting the age of the code. The sliding bar at the top right allows to narrow the period of interest.
+Below I have selected to show changes during the last two years (note that the file was last modified in July 17, 2018.
+
+[[./cregitView4.png]]
+
+These features can be easily combined. You can select the age of the code by a specific author.
+
+** cregit views: improving the linkage  of email code reviews
+
+We are going to keep expanding the information shown in the commit panel. Currently, in addition to the metadata of the commit
+that is responsible for the token, it provides hyperlinks to the commit patch, and to any email discussions we have been able to find
+regarding this commit. We are working to match more and more commits. 
+
+** cregit: where to get it
+
+[[http://github.com/cregit/cregit][cregit]] is open source. Its address is [[https://github.com/cregit/cregit]]
+It is capable of processing C, C++, Java, go. We can probably add support for perl and python fairly easily.
+Its input is a git repository, and its output is another git repository that tracks the source code by token (see paper for details).
+From this repository we construct the blame views shown above. If you are interested to have your repository process through cregit,
+email me.
+
+Daniel German
+dmg@turingmachine.org
+
