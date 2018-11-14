@@ -122,10 +122,13 @@ cregit's input is a git repository, and its output is another git repository tha
 From this repository we construct the blame views shown above. If you are interested to have your repository process through cregit,
 email me.
 
-Finally, I would like to acknowledge Jason Lim; as part of his coursework at [[http://uvic.ca/][UVic]] he implemented the new cregit views, which have greatly improved their usefulness.
+Finally, I would like to acknowledge several people for their contributions:
 
-
-
+- Bram Adams. Bram and I are the creators of cregit.
+- Jason Lim. As part of his coursework at [[http://uvic.ca/][UVic]] he implemented the new cregit views, which have greatly improved their usefulness.
+- Alex Courouble. As part of his master's at the Poly of Montreal he implemented the matching of commits to email discussions.
+- Kate Stewart. She has been instrumental to gather user requirements and to evaluate cregit and its views.
+- Isabella Ferreira. She is picking up where Alex left and continues to improve the maching of commits to emails.
 
 Daniel German
 dmg@turingmachine.org
