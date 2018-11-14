@@ -121,7 +121,7 @@ Its input is a git repository, and its output is another git repository that tra
 From this repository we construct the blame views shown above. If you are interested to have your repository process through cregit,
 email me.
 
-Finally, I would like to acknowledge the work by Jason Lim. He implemented the new cregit views which have greatly improved the 
+Finally, I would like to acknowledge Jason Lim; as part of his coursework at [[http://uvic.ca/][UVic]] he implemented the new cregit views, which have greatly improved their usefulness.
 
 
 
