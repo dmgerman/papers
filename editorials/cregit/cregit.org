@@ -12,14 +12,14 @@
 #+PROPERTY: header-args:R               :results output  :colnames yes
 #+OPTIONS: ^:nil
 
-** Who wrote this code? What changes lead to this function's current implementation?
+** Who wrote this code? Why? What changes lead to this function's current implementation?
 
-These are typical questions that developers (and sometimes layers) ask during their work.
+These are typical questions that developers (and sometimes lawyers) ask during their work.
 Most software development projects use version control software (such as git or subversion) to
 track changes and use the "blame" feature of these systems to answer these questions.
 
 Unfortunately version control systems are only capable of tracking full lines of code. 
-Imagine the following scenario: A simple file is created by developer A, later Developer B changes it, and finally, Developer C.
+Imagine the following scenario: A simple file is created by developer A; later Developer B changes it, and finally, Developer C.
 The following figure depics the contents of the files after each modification. The source code has been coloured according to
 the developer who introduced it (blue for Developer A, red for Developer C, note that Developer B only changed whitespace 
 --including merging some lines). 
@@ -30,23 +30,22 @@ the developer who introduced it (blue for Developer A, red for Developer C, note
 ** blame tracks lines not tokens
 
 If we were to use git to track these changes, and used git-blame with default parameters, its output will show that
-Developer B and C are mostly responsible for the contents of the file.
-
+Developer B and C are mostly responsible for the contents of the file. 
 However, if were to instruct blame to ignore changes to whitespace, the results would be:
 
 [[./blame.png]]
 
-In general, one would expect to always ask blame to ignore whitespace. However, sometimes this is not possible (such as the
+In general, one would expect to always ask blame to ignore whitespace. Unfortunately this is not always possible (such as the
 "blame" view of github which is computed without ignoring whitespace).
 
 Note that, even if we run blame with the ignore-whitespace option, the "blame" is incorrect. First, lines merged or
-split are not addressed properly (the ignore-whitespace option does not ignore them). Second, lines that were mostly
-authored by Developer A are now assigned to Developer B because she was the last one to modify them.
+split are not addressed properly by blame (the ignore-whitespace option does not ignore them). Second, lines that were mostly
+authored by Developer A are now assigned to Developer C because she was the last one to modify them.
 
 If we considered the token as the indivisible unit of source code (hence, a token cannot be modified, it can only be removed or inserted)
 then what we really want is to know who is responsible for introducing each token to the source code base. A blame-per-token for the
-file in our example would look like this. Note how it correctly shows that the only changes made by C to the source code
-were the replacement of int with long three places.
+file in our example would look like the figure below. Note how it correctly shows that the only changes made by C to the source code
+were the replacement of int with long three places, and that B made no changes to the code:
 
 [[./blameToken.png]]
 
@@ -54,7 +53,7 @@ were the replacement of int with long three places.
 ** cregit: improving blame of source code
 
 We created cregit to do exactly this. The goal of cregit is to provide token-level blame for a software system whose
-history has been recorded using git. The details of cregit's implementation can be found in this Working Paper (currently under review).
+history has been recorded using git. The details of cregit's implementation can be found in this [[https://github.com/dmgerman/papers/raw/master/under-review/cregit.pdf][Working Paper]] (currently under review).
 We have empirically evaluated cregit in several mature software systems. In our experiments we found that blame-per-line tends to be accurate
 between 70 and 80 of the time (it highly depends on how much the code has been modified, the more modifications to existing code, the less likely that
 blame-per-line will be accurate. Cregit is able to increase this accuracy to 95% (please see the paper above for the details).
