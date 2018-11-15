@@ -18,11 +18,11 @@ These are typical questions that developers (and sometimes lawyers) ask during t
 Most software development projects use version control software (such as git or subversion) to
 track changes and use the "blame" feature of these systems to answer these questions.
 
-Unfortunately version control systems are only capable of tracking full lines of code. 
-Imagine the following scenario: A simple file is created by developer A; later Developer B changes it, and finally, Developer C.
-The following figure depics the contents of the files after each modification. The source code has been coloured according to
-the developer who introduced it (blue for Developer A, red for Developer C, note that Developer B only changed whitespace 
---including merging some lines). 
+Unfortunately version control systems are only capable of tracking full lines of code.  Imagine the following scenario:
+A simple file is created by developer A; later Developer B changes it, and finally, Developer C.  The following figure
+depics the contents of the files after each modification. The source code has been coloured according to the developer
+who introduced it (blue for Developer A, green for Developer B, and red for Developer C; note that Developer B only
+changed whitespace --including merging some lines).
 
 [[./example.png]]
 
