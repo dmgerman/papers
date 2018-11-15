@@ -55,7 +55,7 @@ We have empirically evaluated cregit on several mature software systems. In our 
 
 For the last two years we have been running cregit on the source code of the Linux Kernel. The results can be found at: [[https://cregit.linuxsources.org/code/4.19/]].
 
-Blame-per-line is easy to implement, just put the blame information to the side, however, blame-per-token is significantly more complex, as its tokens might have different authors and/or commits responsible for them. Hence, we are currently rolling out an improved view of blame-per-token for kernel release 4.19 of Linux (older versions use an old view and most of the information here does not apply). 
+Blame-per-line is easy to implement, just put the blame information to the side; however, blame-per-token is significantly more complex, as its tokens might have different authors and/or commits responsible for them. Hence, we are currently rolling out an improved view of blame-per-token for kernel release 4.19 of Linux (older versions use an old view and most of the information here does not apply). 
 
 ** cregit views: inspecting who changed what/when
 
