@@ -4,7 +4,7 @@
 #+SEQ_TODO: TODO STARTED DONE DEFERRED CANCELLED | WAITING DELEGATED APPT
 #+DRAWERS: HIDDEN STATE
 #+TITLE: My publications (Daniel M. German)
-#+CATEGORY: 
+#+CATEGORY:
 #+PROPERTY: header-args:sql             :engine postgresql  :exports both :cmdline csc370
 #+PROPERTY: header-args:sqlite          :db /path/to/db  :colnames yes
 #+PROPERTY: header-args:C++             :results output :flags -std=c++14 -Wall --pedantic -Werror
@@ -18,6 +18,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 - [[#by-year][By year]]
   - [[#under-review][Under review]]
   - [[#to-appear][To appear]]
+  - [[#2019][2019]]
   - [[#2018][2018]]
   - [[#2017][2017]]
   - [[#2016][2016]]
@@ -32,7 +33,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
   - [[#git-and-github][Git and Github]]
 - [[#to-be-done][To be done]]
 
-* Other sources 
+* Other sources
 
 1. [[https://scholar.google.com/citations?user=hpxl9PEAAAAJ][My Google scholar]]
 
@@ -43,22 +44,27 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 ** Under review
 
-1. *cregit : Token-level Blame Information in git Version Control Repositories* @@html:<br>@@
-   Daniel M. German, Bram Adams and Kate Stewart@@html:<br>@@
-   Under review.@@html:<br>@@
-   [[https://github.com/dmgerman/papers/raw/master/under-review/cregit.pdf][Local Copy]]
 
 ** To appear
 
-1. *What Makes a Great Manager of Software Engineers?* @@html:<br>@@
-   Eirini Kalliamvakou, Christian Bird, Thomas Zimmermann, Andrew Begel, Robert DeLine and Daniel M. German @@html:<br>@@
-   Transactions of Software Engineering. To Appear.@@html:<br>@@
-   [[http://ieeexplore.ieee.org/abstract/document/8094304/][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/to-appear/tse-seng_manager/tse-seng-manager.pdf][Local copy]] 
+1. *cregit : Token-level Blame Information in git Version Control Repositories* @@html:<br>@@
+   Daniel M. German, Bram Adams and Kate Stewart@@html:<br>@@
+   Under review.@@html:<br>@@
+   [[https://github.com/dmgerman/papers/raw/master/to-appear/emse-cregit/cregit.pdf][Local Copy]]
+
 
 1. *Open Source Ecosystems and their need for a legal framework* @@html:<br>@@
    A book chapter @@html:<br>@@
    Daniel M. German @@html:<br>@@
    [[https://github.com/dmgerman/papers/raw/master/to-appear/ecoLicense.pdf][Local copy]]
+
+** 2019
+
+1. *What Makes a Great Manager of Software Engineers?* @@html:<br>@@
+   Eirini Kalliamvakou, Christian Bird, Thomas Zimmermann, Andrew Begel, Robert DeLine and Daniel M. German @@html:<br>@@
+   Transactions of Software Engineering.  Volume: 45 , Issue: 1 , Jan. 1 2019, Pages: 86-106<br>@@
+   [[http://ieeexplore.ieee.org/abstract/document/8094304/][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2019/tse-seng_manager/tse-seng-manager.pdf][Local copy]]
+
 
 
 ** 2018
@@ -70,7 +76,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
    Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
-   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). 
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers).
    [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_license-bugs.pdf][Local copy]]
 
 1. *Do developers update their library dependencies? - An empirical study on the impact of security advisories on library migration* @@html:<br>@@
@@ -89,7 +95,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Evan Wilde, Daniel M. Germán. @@html:<br>@@
    Journal of Software: Evolution and Process, February 2018, Volume 30, Issue 2, pages e1936 @@html:<br>@@
    DOI 10.1002/smr.1936 @@html:<br>@@
-   [[https://onlinelibrary.wiley.com/doi/full/10.1002/smr.1936][Publisher's copy]] | 
+   [[https://onlinelibrary.wiley.com/doi/full/10.1002/smr.1936][Publisher's copy]] |
 
 1. *How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists* @@html:<br>@@
    Alexey Zagalsky, Daniel M. German, Margaret-Anne Storey, Carlos Gómez Teshima, Germán Poo-Caamaño.@@html:<br>@@
@@ -127,7 +133,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    Journal of Empirical Software Engineering 22(3): 1194-1222 (2017)@@html:<br>@@
    [[https://link.springer.com/article/10.1007/s10664-016-9487-8][Publisher's copy]] | [[file:../../raw/master/2017/journal/2017_emse-msr-special-issue_license-inconsistencies/2017_emse_license-inconsistencies.pdf][Local copy]]
-   
+
 2. *The Debsources Dataset: two decades of free and open source software* @@html:<br>@@
    Matthieu Caneill, Daniel M. Germán, Stefano Zacchiroli.@@html:<br>@@
    Journal of Empirical Software Engineering 22(3): 1405-1437 (2017)@@html:<br>@@
@@ -151,13 +157,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 7. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
    International Conference in Software Engineering (ICSE) Research Track 2017: 118-129@@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:../../raw/master/2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:../../raw/master/2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]]
 
 8. *How are Developers Treating License Inconsistency Issues? A Case Study on License Inconsistency Evolution in FOSS Projects.* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
    OSS 2017: 69-79. @@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:../../raw/master/2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
+   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:../../raw/master/2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]]
 
 9. *An exploratory study on library aging by monitoring client usage in a software ecosystem* @@html:<br>@@
    Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Ali Ouni, Katsuro Inoue @@html:<br>@@
@@ -168,27 +174,27 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Huihui Nora Huang, Eric Verbeek, Daniel M. Germán, Margaret-Anne D. Storey and Martin Salois @@html:<br>@@
    International Conference in Software Maintenance and Evolution (ICSME 2017), Tool Demonstration Track. Sept 2017. pages 623-627@@html:<br>@@
    DOI 10.1109/ICSME.2017.23 @@html:<br>@@
-   [[https://ieeexplore.ieee.org/document/8094468/][Publisher's copy]] | 
+   [[https://ieeexplore.ieee.org/document/8094468/][Publisher's copy]] |
 
 11. *How Long and How Much: What to Expect from Summer of Code Participants?* ICSME 2017: 69-79
    Jefferson De Oliveira Silva, Igor Scaliante Wiese, Daniel M. Germán, Igor Fabio Steinmacher, Marco Aurélio Gerosa:
    International Conference in Software Maintenance and Evolution (ICSME 2017), Sept 2017. pages 69-79 @@html:<br>@@
    Acceptance rate 27.8% (42 out of 151). DOI 10.1109/ICSME.2017.81 @@html:<br>@@
    DOI 10.1109/ICSME.2017.81 @@html:<br>@@
-   [[https://ieeexplore.ieee.org/document/8094410/][Publisher's copy]] | 
+   [[https://ieeexplore.ieee.org/document/8094410/][Publisher's copy]] |
 
 ** 2016
 
 1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
     Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
     Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
-    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:../../raw/master/2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
+    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:../../raw/master/2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]]
 
 2. *An empirical study of integration activities in distributions of open source software* @@html:<br>@@
    Bram Adams, Ryan Kavanagh, Ahmed E. Hassan, Daniel M. Germán. @@html:<br>@@
    Journal of Empirical Software Engineering 21(3): 960-1001 (2016) @@html:<br>@@
-   [[https://link.springer.com/article/10.1007/s10664-015-9371-y][Publisher's copy]] | 
-	
+   [[https://link.springer.com/article/10.1007/s10664-015-9371-y][Publisher's copy]] |
+
 3. *An in-depth study of the promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela E. Damian.@@html:<br>@@
    Journal of Empirical Software Engineering 21(5): 2035-2071 (2016) @@html:<br>@@
@@ -197,13 +203,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
    Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.
    International Working Conference in Mining Software Repositories (MSR) 2016: 339-350 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:../../raw/master/2016/conferences/2015_msr_software-ingredients/2015_msr_software-ingredients.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:../../raw/master/2016/conferences/2015_msr_software-ingredients/2015_msr_software-ingredients.pdf][Local copy]]
 
 5. *How the R community creates and curates knowledge: a comparative study of stack overflow and mailing lists* @@html:<br>@@
    Alexey Zagalsky, Carlos Gómez Teshima, Daniel M. Germán, Margaret-Anne D. Storey, Germán Poo-Caamaño. @@html:<br>@@
     MSR 2016: 441-451@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-	
+
 6. *Herding Cats: A Case Study of Release Management in an Open Collaboration Ecosystem* @@html:<br>@@
    Germán Poo-Caamaño, Leif Singer, Eric Knauss, Daniel M. Germán @@html:<br>@@
    OSS 2016: 147-162@@html:<br>@@
@@ -222,7 +228,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Journal of Empirical Software Engineering 20(1): 252-289 (2015)@@html:<br>@@
 
 3. *People Analytics in Software Development* @@html:<br>@@
-   Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:@@html:<br>@@ 
+   Leif Singer, Margaret-Anne D. Storey, Fernando Marques Figueira Filho, Alexey Zagalsky, Daniel M. Germán:@@html:<br>@@
    GTTSE 2015: 124-153@@html:<br>@@
 
 4. *Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub* @@html:<br>@@
@@ -233,13 +239,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICSME 2015: 31-40 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]]
 
 6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICPC 2015: 218-228@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]]
 
 7. *What is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
@@ -250,7 +256,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    12th Working Conference on Mining Software Repositories (MSR 2015): 324-333@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]]
 
 9. *A Dataset of the Activity of the Git Super-repository of Linux in 2012* @@html:<br>@@
    Daniel M. Germán, Bram Adams, Ahmed E. Hassan @@html:<br>@@
@@ -260,13 +266,13 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
     Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño.@@html:<br>@@
     OSS 2015: 146-156@@html:<br>@@
-    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]]
 
 11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
     Germán Poo-Caamaño, Daniel M. Germán.  @@html:<br>@@
     OSS 2015: 157-167 @@html:<br>@@
-    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
-    
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]]
+
 12. *Trusting a library: A study of the latency to adopt the latest Maven release* @@html:<br>@@
      Raula Gaikovina Kula, Daniel M. Germán, Takashi Ishio, Katsuro Inoue @@html:<br>@@
     International Conference on Software Analysis, Evolution, and Reengineering (SANER) 2015: 520-524 @@html:<br>@@
@@ -296,7 +302,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
    Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.@@html:<br>@@
    ESEM 2014: 51:1-51:10@@html:<br>@@
-   [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
+   [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]]
 
 6. *Quantifying programmers' mental workload during program comprehension based on cerebral blood flow measurement: a controlled experiment* @@html:<br>@@
    Takao Nakagawa, Yasutaka Kamei, Hidetake Uwano, Akito Monden, Ken-ichi Matsumoto, Daniel M. Germán @@html:<br>@@
@@ -305,7 +311,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 7. *Tracing software build processes to uncover license compliance inconsistencies* @@html:<br>@@
    Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel.@@html:<br>@@
    ASE 2014: 731-742@@html:<br>@@
-   [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:../../raw/master/2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]] 
+   [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:../../raw/master/2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]]
 
 8. *The promises and perils of mining GitHub* @@html:<br>@@
    Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. Germán, Daniela Damian @@html:<br>@@
@@ -332,7 +338,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 1. *A Method for Open Source License Compliance of Java Applications* @@html:<br>@@
     Daniel M. Germán, Massimiliano Di Penta @@html:<br>@@
    IEEE Software 29(3): 58-63 (2012) @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/6178302/][Publisher's copy]] | 
+   [[http://ieeexplore.ieee.org/document/6178302/][Publisher's copy]] |
 
 ** 2009
 
@@ -344,10 +350,10 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 2. *The promises and perils of mining git* @@html:<br>@@
    Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu  @@html:<br>@@
    MSR 2009: 1-10 @@html:<br>@@
-   [[https://dl.acm.org/citation.cfm?id=1591132][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]] 
+   [[https://dl.acm.org/citation.cfm?id=1591132][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]]
 
 
-* By topic 
+* By topic
 
 ** Intellectual Property
 
@@ -355,7 +361,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 
 1. *To Distribute or Not to Distribute? Why Licensing Bugs Matter* @@html:<br>@@
    Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez and Denys Poshyvanyk. @@html:<br>@@
-   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers). 
+   International Conference on Software Engineering (ICSE'2018). Acceptance rate 21% (105 out of 502 full research papers).
    [[https://github.com/dmgerman/papers/raw/master/2018/conferences/icse/2018_icse_license-bugs.pdf][Local copy]]
 
 1. *Understanding the Usage, Impact, and Adoption of Non-OSI Approved Licenses* @@html:<br>@@
@@ -374,7 +380,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 1. *Machine learning-based detection of open source license exceptions* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk @@html:<br>@@
    International Conference in Software Engineering (ICSE) Research Track 2017: 118-129@@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:../../raw/master/2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7985655/][Publisher's copy]] | [[file:../../raw/master/2017/conference/2017_icse_license-exceptions/2017_icse_license-exceptions.pdf][Local copy]]
 
 3. *License usage and changes: a large-scale study on GitHub* @@html:<br>@@
    Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
@@ -385,7 +391,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Yuhao Wu, Yuki Manabe, Daniel M. Germán, Katsuro Inoue @@html:<br>@@
    OSS 2017: 69-79. @@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:../../raw/master/2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]] 
+   [[https://link.springer.com/chapter/10.1007/978-3-319-57735-7_8][Publisher's copy]] (open access) | [[file:../../raw/master/2017/conference/2017_oss_developers-license-inconsistencies/2017_oss_developers-license-inconsistencies.pdf][Local copy]]
 
 
 *** 2015
@@ -393,30 +399,30 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 5. *When and why developers adopt and change software licenses* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICSME 2015: 31-40 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7332449/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icsme_why-license-change-adoption/2015_icsme_why-license-change-adoption.pdf][Local copy]]
 
 8. *A Method to Detect License Inconsistencies in Large-Scale Open Source Projects* @@html:<br>@@
    Yuhao Wu, Yuki Manabe, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    12th Working Conference on Mining Software Repositories (MSR 2015): 324-333@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7180091/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_msr_license-inconsistencies/2015_msr_license-inconsistencies.pdf][Local copy]]
 
 6. *License usage and changes: a large-scale study of Java projects on GitHub* @@html:<br>@@
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICPC 2015: 218-228@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]]
 
 10. *On the Variability of the BSD and MIT Licenses* @@html:<br>@@
     Trevor Maryka, Daniel M. Germán, Germán Poo-Caamaño. @@html:<br>@@
     OSS 2015: 146-156@@html:<br>@@
-    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]] 
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_14][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_bsd-mit-variability/2015_oss_bsd-mit-variability.pdf][Local copy]]
 
 11. *The Right to a Contribution: An Exploratory Survey on How Organizations Address It* @@html:<br>@@
     Germán Poo-Caamaño, Daniel M. Germán.@@html:<br>@@
     OSS 2015: 157-167 @@html:<br>@@
-    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]] 
-    
+    [[https://link.springer.com/chapter/10.1007/978-3-319-17837-0_15][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_oss_right-to-contribution/2015_oss_right-to-contribution.pdf][Local copy]]
+
 13. *Software patents: a replication study* @@html:<br>@@
     Germán Poo-Caamaño, Daniel M. Germán. @@html:<br>@@
     OpenSym 2015: 5:1-5:4@@html:<br>@@
@@ -427,7 +433,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 7. *Tracing software build processes to uncover license compliance inconsistencies* @@html:<br>@@
    Sander van der Burg, Eelco Dolstra, Shane McIntosh, Julius Davies, Daniel M. Germán, Armijn Hemel.@@html:<br>@@
    ASE 2014: 731-742@@html:<br>@@
-   [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:../../raw/master/2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]] 
+   [[http://dl.acm.org/citation.cfm?id=2643013][Publisher's copy]] | [[file:../../raw/master/2014/conference/2014_ase_tracing-build/2014_ase_tracing-build.pdf][Local copy]]
 
 *** 2009
 
@@ -443,21 +449,21 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
     Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
     Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
-    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:../../raw/master/2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
+    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:../../raw/master/2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]]
 
 *** 2015
 
 4. *Software ingredients: detection of third-party component reuse in Java software release* @@html:<br>@@
    Takashi Ishio, Raula Gaikovina Kula, Tetsuya Kanda, Daniel M. Germán, Katsuro Inoue.@@html:<br>@@
    MSR 2016: 339-350 @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:../../raw/master/2016/conferences/2016_msr_software-ingredients/2016_msr_software-ingredients.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7832913/][Publisher's copy]] | [[file:../../raw/master/2016/conferences/2016_msr_software-ingredients/2016_msr_software-ingredients.pdf][Local copy]]
 
 *** 2014
 
 5. *Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel* @@html:<br>@@
    Yujuan Jiang, Bram Adams, Foutse Khomh, Daniel M. Germán.@@html:<br>@@
    ESEM 2014: 51:1-51:10@@html:<br>@@
-   [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]] 
+   [[http://dl.acm.org/citation.cfm?id=2652542][Publisher's copy]] | [[2014/conference/2014_esem_tracing-emails-to-commits-linux/2014_esem_tracing-emails-to-commits-linux.pdf][Local copy]]
 
 *** 2013
 
@@ -480,7 +486,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 1. *Continuously mining distributed version control systems: an empirical study of how Linux uses Git* @@html:<br>@@
     Daniel M. Germán, Bram Adams, Ahmed E. Hassan.@@html:<br>@@
     Journal of Empirical Software Engineering 21(1): 260-299 (2016) @@html:<br>@@
-    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:../../raw/master/2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]] 
+    [[https://link.springer.com/article/10.1007/s10664-014-9356-2][Publisher's copy]] | [[file:../../raw/master/2016/journals/2016_emse_continuous-mining/2016_emse_continuous-mining.pdf][Local copy]]
 
 7. *Merge-Tree: Visualizing the Integration of Commits into Linux* @@html:<br>@@
    Evan Wilde, Daniel M. Germán. @@html:<br>@@
@@ -506,7 +512,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
    Christopher Vendome, Mario Linares Vásquez, Gabriele Bavota, Massimiliano Di Penta, Daniel M. Germán, Denys Poshyvanyk.@@html:<br>@@
    ICPC 2015: 218-228@@html:<br>@@
    *Selected as one of the best papers and invited for journal's special issue of the conference* @@html:<br>@@
-   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]] 
+   [[http://ieeexplore.ieee.org/document/7181450/][Publisher's copy]] | [[file:../../raw/master/2015/conferences/2015_icpc_license-usage-changes/2015_icpc_license-usage-changes.pdf][Local copy]]
 
 7. *What is the Gist? Understanding the Use of Public Gists on GitHub* @@html:<br>@@
    Weiliang Wang, Germán Poo-Caamaño, Evan Wilde, Daniel M. Germán @@html:<br>@@
@@ -530,7 +536,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 2. *The promises and perils of mining git* @@html:<br>@@
    Christian Bird, Peter C. Rigby, Earl T. Barr, David J. Hamilton, Daniel M. Germán, Premkumar T. Devanbu  @@html:<br>@@
    MSR 2009: 1-10 @@html:<br>@@
-   [[https://dl.acm.org/citation.cfm?id=1591132][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]] 
+   [[https://dl.acm.org/citation.cfm?id=1591132][Publisher's copy]] | [[https://github.com/dmgerman/papers/raw/master/2009/conferences/2009_msr_perils-mining-git/2009_msr_perils-mining-git.pdf][Local copy]]
 
 
 
@@ -540,7 +546,7 @@ This list is incomplete. For a more complete list, see [[#other-sources][Other S
 #+BEGIN_SRC example
 2014
 2013
-	[j14]		
+	[j14]
 	[c63]		Daniel M. Germán, Bram Adams, Ahmed E. Hassan:
 The Evolution of the R Software Ecosystem. CSMR 2013: 243-252
 	[c62]		Peter C. Rigby, Earl T. Barr, Christian Bird, Premkumar T. Devanbu, Daniel M. Germán:
@@ -588,7 +594,7 @@ A comparative exploration of FreeBSD bug lifetimes. MSR 2010: 106-109
 Identifying licensing of jar archives using a code-search approach. MSR 2010: 151-160
 	[c43]		Daniel M. Germán, Jens H. Webber, Massimiliano Di Penta:
 Lawful software engineering. FoSER 2010: 129-132
-[–] 2000 – 2009 
+[–] 2000 – 2009
 2009
 	[j11]		Daniel M. Germán, Jaume Rigau:
 Improving scans of black and white photographs by recovering the print maker's artistic intent. Computers & Graphics 33(4): 509-520 (2009)
@@ -599,7 +605,7 @@ Change impact graphs: Determining the impact of prior codechanges. Information &
 	[c41]		Abram Hindle, Daniel M. Germán, Michael W. Godfrey, Richard C. Holt:
 
 Automatic classication of large changes into maintenance categories. ICPC 2009: 30-39
-  
+
 	[c39]		Daniel M. Germán, Massimiliano Di Penta, Yann-Gaël Guéhéneuc, Giuliano Antoniol:
 
 
@@ -693,7 +699,7 @@ Improving the usability of Eclipse for novice programmers. OOPSLA Workshop on Ec
 Hadez, a Framework for the Specification and Verification of Hypermedia Applications. University of Waterloo, Ontario, Canada 2000
 	[c7]		Daniel M. Germán, Donald D. Cowan:
 Towards a Unified Catalog of Hypermedia Design Patterns. HICSS 2000
-[–] 1990 – 1999 
+[–] 1990 – 1999
 1999
 	[c6]		Daniel M. Germán, Donald D. Cowan:
 Formalizing the Specification of Web Applications. ER (Workshops) 1999: 281-292
